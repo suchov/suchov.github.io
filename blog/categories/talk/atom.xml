@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Talk | Such Blog]]></title>
+  <link href="http://suchov.github.io/blog/categories/talk/atom.xml" rel="self"/>
+  <link href="http://suchov.github.io/"/>
+  <updated>2013-10-25T18:45:34+03:00</updated>
+  <id>http://suchov.github.io/</id>
+  <author>
+    <name><![CDATA[Artem Sychov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First_post]]></title>
+    <link href="http://suchov.github.io/blog/2013/10/25/first-post/"/>
+    <updated>2013-10-25T18:36:00+03:00</updated>
+    <id>http://suchov.github.io/blog/2013/10/25/first-post</id>
+    <content type="html"><![CDATA[<h1>For really it&rsquo;s my first post here!</h1>
+
+<p>I&rsquo;m very glad that I actually made it!</p>
+]]></content>
+  </entry>
+  
+</feed>
