@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2013-10-30T23:32:39+02:00</updated>
+  <updated>2013-10-30T23:40:28+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -18,14 +18,14 @@
     <link href="http://suchov.github.io/blog/2013/10/25/first-post/"/>
     <updated>2013-10-25T18:36:00+03:00</updated>
     <id>http://suchov.github.io/blog/2013/10/25/first-post</id>
-    <content type="html"><![CDATA[<h1>links</h1>
+    <content type="html"><![CDATA[<h1>links:</h1>
 
-<p><a href="https://tutsplus.com/tutorial/sublime-text-2-first-steps/">https://tutsplus.com/tutorial/sublime-text-2-first-steps/</a>
-<a href="https://tutsplus.com/course/improve-workflow-in-sublime-text-2/">https://tutsplus.com/course/improve-workflow-in-sublime-text-2/</a>
-<a href="http://pcottle.github.io/learnGitBranching/">http://pcottle.github.io/learnGitBranching/</a>
-<a href="http://sixrevisions.com/web-development/git-tips/">http://sixrevisions.com/web-development/git-tips/</a>
-<a href="http://www.henriquebarroso.com/my-top-10sublime-2-plugins/">http://www.henriquebarroso.com/my-top-10sublime-2-plugins/</a>
-<a href="http://discover-devtools.codeschool.com/">http://discover-devtools.codeschool.com/</a>
+<p><a href="https://tutsplus.com/tutorial/sublime-text-2-first-steps/">https://tutsplus.com/tutorial/sublime-text-2-first-steps/</a><br/>
+<a href="https://tutsplus.com/course/improve-workflow-in-sublime-text-2/">https://tutsplus.com/course/improve-workflow-in-sublime-text-2/</a><br/>
+<a href="http://pcottle.github.io/learnGitBranching/">http://pcottle.github.io/learnGitBranching/</a><br/>
+<a href="http://sixrevisions.com/web-development/git-tips/">http://sixrevisions.com/web-development/git-tips/</a><br/>
+<a href="http://www.henriquebarroso.com/my-top-10sublime-2-plugins/">http://www.henriquebarroso.com/my-top-10sublime-2-plugins/</a>  <br/>
+<a href="http://discover-devtools.codeschool.com/">http://discover-devtools.codeschool.com/</a>  <br/>
 <a href="http://rutracker.org/forum/viewtopic.php?t=2497379">http://rutracker.org/forum/viewtopic.php?t=2497379</a></p>
 ]]></content>
   </entry>
