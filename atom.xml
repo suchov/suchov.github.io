@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2013-10-25T18:45:34+03:00</updated>
+  <updated>2013-10-30T23:32:39+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -14,13 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First_post]]></title>
+    <title type="html"><![CDATA[JS Course first lesson]]></title>
     <link href="http://suchov.github.io/blog/2013/10/25/first-post/"/>
     <updated>2013-10-25T18:36:00+03:00</updated>
     <id>http://suchov.github.io/blog/2013/10/25/first-post</id>
-    <content type="html"><![CDATA[<h1>For really it&rsquo;s my first post here!</h1>
+    <content type="html"><![CDATA[<h1>links</h1>
 
-<p>I&rsquo;m very glad that I actually made it!</p>
+<p><a href="https://tutsplus.com/tutorial/sublime-text-2-first-steps/">https://tutsplus.com/tutorial/sublime-text-2-first-steps/</a>
+<a href="https://tutsplus.com/course/improve-workflow-in-sublime-text-2/">https://tutsplus.com/course/improve-workflow-in-sublime-text-2/</a>
+<a href="http://pcottle.github.io/learnGitBranching/">http://pcottle.github.io/learnGitBranching/</a>
+<a href="http://sixrevisions.com/web-development/git-tips/">http://sixrevisions.com/web-development/git-tips/</a>
+<a href="http://www.henriquebarroso.com/my-top-10sublime-2-plugins/">http://www.henriquebarroso.com/my-top-10sublime-2-plugins/</a>
+<a href="http://discover-devtools.codeschool.com/">http://discover-devtools.codeschool.com/</a>
+<a href="http://rutracker.org/forum/viewtopic.php?t=2497379">http://rutracker.org/forum/viewtopic.php?t=2497379</a></p>
 ]]></content>
   </entry>
   
