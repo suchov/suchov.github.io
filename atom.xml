@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2013-10-30T23:40:28+02:00</updated>
+  <updated>2013-10-30T23:46:54+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -27,6 +27,12 @@
 <a href="http://www.henriquebarroso.com/my-top-10sublime-2-plugins/">http://www.henriquebarroso.com/my-top-10sublime-2-plugins/</a>  <br/>
 <a href="http://discover-devtools.codeschool.com/">http://discover-devtools.codeschool.com/</a>  <br/>
 <a href="http://rutracker.org/forum/viewtopic.php?t=2497379">http://rutracker.org/forum/viewtopic.php?t=2497379</a></p>
+
+<h2>Домашка</h2>
+
+<p>Определится, установить у кого нет IDE/редактор для работы<br/>
+Разобратся с системой контроля версий GIT<br/>
+Глянуть на DevTools</p>
 ]]></content>
   </entry>
   
