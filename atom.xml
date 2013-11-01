@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2013-11-01T10:39:14+02:00</updated>
+  <updated>2013-11-01T12:21:08+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -14,11 +14,40 @@
 
   
   <entry>
+    <title type="html"><![CDATA[RoR Course JS tasks and links]]></title>
+    <link href="http://suchov.github.io/blog/2013/11/01/ror-course-js-tasks-and-links/"/>
+    <updated>2013-11-01T12:07:00+02:00</updated>
+    <id>http://suchov.github.io/blog/2013/11/01/ror-course-js-tasks-and-links</id>
+    <content type="html"><![CDATA[<h1>Links:</h1>
+
+<p><a href="http://learn.javascript.ru/">http://learn.javascript.ru/</a><br/>
+<a href="http://www.w3schools.com/js/default.asp">http://www.w3schools.com/js/default.asp</a><br/>
+<a href="http://bonsaiden.github.io/JavaScript-Garden/">http://bonsaiden.github.io/JavaScript-Garden/</a><br/>
+<a href="https://developer.mozilla.org/ru/docs/JavaScript">https://developer.mozilla.org/ru/docs/JavaScript</a></p>
+
+<h1>Books:</h1>
+
+<p><a href="http://it-ebooks.info/book/274/">Douglas Crockford, JavaScript: The Good Parts</a><br/>
+<a href="http://it-ebooks.info/book/729/">Nicholas C. Zakas, Maintainable JavaScript</a><br/>
+<a href="http://it-ebooks.info/book/275/">Stoyan Stefanov &ldquo;JavaScript Patterns&rdquo;</a><br/>
+<a href="http://www.kodges.ru/komp/program/12028-object-oriented-javascript.html">Stoyan Stefanov &ldquo;Object-Oriented JavaScript&rdquo;</a><br/>
+<a href="http://it-ebooks.info/book/1790/">John Resig &ldquo;Pro Javascript Techniques&rdquo;</a><br/>
+<a href="http://eloquentjavascript.net/">Eloquent JavaScript</a><br/>
+<a href="http://www.kodges.ru/komp/program/130783-professional-javascript-for-web-developers-3rd.html">Nicholas C. Zakas, &ldquo;Professional javascript for Web Developers, 3rd Edition&rdquo;</a><br/>
+<a href="http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/">Addy Osmani, Learning JavaScript Design Patterns</a></p>
+
+<h2>Home work</h2>
+
+<p><a href="https://gist.github.com/suchov/7263330">gist.github</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[JS Course first lesson]]></title>
     <link href="http://suchov.github.io/blog/2013/10/25/first-post/"/>
     <updated>2013-10-25T18:36:00+03:00</updated>
     <id>http://suchov.github.io/blog/2013/10/25/first-post</id>
-    <content type="html"><![CDATA[<h1>links:</h1>
+    <content type="html"><![CDATA[<h1>Links:</h1>
 
 <p><a href="https://tutsplus.com/tutorial/sublime-text-2-first-steps/">https://tutsplus.com/tutorial/sublime-text-2-first-steps/</a><br/>
 <a href="https://tutsplus.com/course/improve-workflow-in-sublime-text-2/">https://tutsplus.com/course/improve-workflow-in-sublime-text-2/</a><br/>
@@ -31,11 +60,11 @@
 <a href="http://net.tutsplus.com/tutorials/tools-and-tips/http-the-protocol-every-web-developer-must-know-part-1/">http://net.tutsplus.com/tutorials/tools-and-tips/http-the-protocol-every-web-developer-must-know-part-1/</a><br/>
 <a href="http://httpflies.com/">http://httpflies.com/</a></p>
 
-<h2>Домашка</h2>
+<h2>Home work</h2>
 
-<p>Определится, установить у кого нет IDE/редактор для работы<br/>
-Разобратся с системой контроля версий GIT<br/>
-Глянуть на DevTools</p>
+<p>Choose your IDE for work<br/>
+Look at GIT<br/>
+Look at DevTools</p>
 ]]></content>
   </entry>
   
