@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2013-11-01T12:21:08+02:00</updated>
+  <updated>2013-11-04T21:47:54+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JS Course Second Lesson]]></title>
+    <link href="http://suchov.github.io/blog/2013/11/04/js-course-second-lesson/"/>
+    <updated>2013-11-04T19:18:00+02:00</updated>
+    <id>http://suchov.github.io/blog/2013/11/04/js-course-second-lesson</id>
+    <content type="html"><![CDATA[<h1><a href="http://codeangels.github.io/html_basics">http://codeangels.github.io/html_basics</a></h1>
+
+<h1>Links:</h1>
+
+<p><a href="http://www.html5rocks.com/en/">http://www.html5rocks.com/en/</a>
+<a href="http://html5doctor.com/">http://html5doctor.com/</a>
+<a href="http://diveintohtml5.info/">http://diveintohtml5.info/</a>
+<a href="http://rutracker.org/forum/viewtopic.php?t=3602666">http://rutracker.org/forum/viewtopic.php?t=3602666</a>
+<a href="https://github.com/h5bp/html5-boilerplate">https://github.com/h5bp/html5-boilerplate</a>
+<a href="http://frontend.codeschool.com/levels/1">http://frontend.codeschool.com/levels/1</a>
+<a href="http://joshduck.com/periodic-table.html">http://joshduck.com/periodic-table.html</a>
+<a href="http://www.microsoftvirtualacademy.com/training-courses/learn-html5-with-javascript-css3-jumpstart-training#?fbid=stnD-dgUyns">http://www.microsoftvirtualacademy.com/training-courses/learn-html5-with-javascript-css3-jumpstart-training</a></p>
+
+<h2>Home work</h2>
+
+<p><a href="https://gist.github.com/sudodoki/7308154">https://gist.github.com/sudodoki/7308154</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[RoR Course JS tasks and links]]></title>
