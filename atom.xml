@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2013-11-14T11:18:38+02:00</updated>
+  <updated>2013-11-14T20:26:03+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[RoR Course Rails]]></title>
+    <link href="http://suchov.github.io/blog/2013/11/14/ror-course-rails/"/>
+    <updated>2013-11-14T20:11:00+02:00</updated>
+    <id>http://suchov.github.io/blog/2013/11/14/ror-course-rails</id>
+    <content type="html"><![CDATA[<h1><a href="http://rubygarage.github.io/public/rails/">Rails</a></h1>
+
+<h2>Links</h2>
+
+<p><a href="https://github.com/Ptico/from-rack-to-rails">https://github.com/Ptico/from-rack-to-rails</a><br/>
+<a href="http://apidock.com/">http://apidock.com/</a><br/>
+<a href="http://ruby.railstutorial.org/">http://ruby.railstutorial.org/</a>
+<a href="http://railsforzombies.org/">rails for zombies</a>
+<a href="http://outcoldman.com/ru/blog/show/184">http://outcoldman.com/ru/blog/show/184</a></p>
+
+<h2>Home work</h2>
+
+<p>Make your blog in 10 min<br/>
+<a href="http://ontwik.com/ruby/blog-in-less-than-10-minutes-using-ruby-on-rails/">http://ontwik.com/ruby/blog-in-less-than-10-minutes-using-ruby-on-rails/</a></p>
+
+<p><img src="http://placekitten.com/g/300/300"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JS Course Fourth Lesson]]></title>
