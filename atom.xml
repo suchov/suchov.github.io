@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2013-11-14T20:26:03+02:00</updated>
+  <updated>2013-11-15T12:41:15+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[RoR Course Models and ActiveRecord]]></title>
+    <link href="http://suchov.github.io/blog/2013/11/15/ror-course-models-and-activerecord/"/>
+    <updated>2013-11-15T12:30:00+02:00</updated>
+    <id>http://suchov.github.io/blog/2013/11/15/ror-course-models-and-activerecord</id>
+    <content type="html"><![CDATA[<h1><a href="http://rubygarage.github.io/public/models/">Models&hellip;</a></h1>
+
+<h2>Links</h2>
+
+<ol>
+<li><a href="http://guides.rubyonrails.org/active_record_basics.html">active_record_basics</a></li>
+<li><a href="http://guides.rubyonrails.org/migrations.html">migrations</a> обратить внимание на<br/>
+2.1 <a href="http://guides.rubyonrails.org/migrations.html#using-reversible">Guides RoR</a><br/>
+2.2 <a href="http://guides.rubyonrails.org/migrations.html#migrations-and-seed-data">migrations and seed data</a></li>
+<li><a href="http://guides.rubyonrails.org/association_basics.html">association basics</a></li>
+</ol>
+
+
+<h2>Home work</h2>
+
+<p>&ldquo;Свой Twitter&rdquo; ;)<br/>
+Есть пользователи, твиты, подписки, ответные твиты, темы оформления и профили в социальных сетях. Пользователи могут подписываться друг на друга.</p>
+
+<p>Истории:<br/>
+Как пользователь, я могу указать разные профили в соц. сетях<br/>
+Как пользователь я могу написать твит<br/>
+Как пользователь я могу подписаться на другого пользователя<br/>
+Как пользователь я могу ответить на любой твит<br/>
+Как пользователь я могу выбрать одну из существующих тем оформления сайта</p>
+
+<p>Задача:<br/>
+&ndash; Спроектировать БД,<br/>
+&ndash; Создать модели и миграции<br/>
+&ndash; Связать модели отношениями</p>
+
+<p><img src="http://placekitten.com/g/300/400"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[RoR Course Rails]]></title>
