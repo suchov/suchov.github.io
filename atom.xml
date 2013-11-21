@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2013-11-15T12:41:15+02:00</updated>
+  <updated>2013-11-21T17:45:05+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Js Course Fifth Lesson]]></title>
+    <link href="http://suchov.github.io/blog/2013/11/18/js-course-fifth-lesson/"/>
+    <updated>2013-11-18T00:00:00+02:00</updated>
+    <id>http://suchov.github.io/blog/2013/11/18/js-course-fifth-lesson</id>
+    <content type="html"><![CDATA[<h1><a href="http://codeangels.github.io/js_basics/">js_basics from page 21</a></h1>
+
+<h2>Home work</h2>
+
+<p><a href="https://gist.github.com/dmitryt/7536676">gist</a></p>
+
+<p><img src="http://placekitten.com/g/400/400"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[RoR Course Models and ActiveRecord]]></title>
