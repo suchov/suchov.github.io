@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2013-11-27T16:08:08+02:00</updated>
+  <updated>2013-11-28T13:44:19+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -14,9 +14,26 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Js Course Fifth Lesson]]></title>
+    <title type="html"><![CDATA[JS Course JQuery lesson1]]></title>
+    <link href="http://suchov.github.io/blog/2013/11/28/js-course-jquery-lesson1/"/>
+    <updated>2013-11-28T13:30:00+02:00</updated>
+    <id>http://suchov.github.io/blog/2013/11/28/js-course-jquery-lesson1</id>
+    <content type="html"><![CDATA[<h1><a href="http://codeangels.github.io/js_jquery/">http://codeangels.github.io/js_jquery/</a></h1>
+
+<h2>Home work</h2>
+
+<p><a href="https://gist.github.com/sudodoki/7689386">https://gist.github.com/sudodoki/7689386</a><br/>
+Тесты здесь, нужно еще заапдейтить, если чо feel free to contribute:<br/>
+<a href="http://plnkr.co/edit/1vHsnE0O4Yly1OhZMfDZ?p=preview">http://plnkr.co/edit/1vHsnE0O4Yly1OhZMfDZ?p=preview</a></p>
+
+<p><img src="http://placekitten.com/g/200/200"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[JS Course Fifth && Six lesson]]></title>
     <link href="http://suchov.github.io/blog/2013/11/18/js-course-fifth-lesson/"/>
-    <updated>2013-11-18T00:00:00+02:00</updated>
+    <updated>2013-11-18T20:00:00+02:00</updated>
     <id>http://suchov.github.io/blog/2013/11/18/js-course-fifth-lesson</id>
     <content type="html"><![CDATA[<h1><a href="http://codeangels.github.io/js_basics/">js_basics from page 21</a></h1>
 
