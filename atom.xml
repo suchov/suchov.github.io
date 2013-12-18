@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2013-12-02T19:58:51+02:00</updated>
+  <updated>2013-12-18T12:13:58+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JS Course lessons & materials]]></title>
+    <link href="http://suchov.github.io/blog/2013/12/18/amount-of-js-lessons/"/>
+    <updated>2013-12-18T10:48:00+02:00</updated>
+    <id>http://suchov.github.io/blog/2013/12/18/amount-of-js-lessons</id>
+    <content type="html"><![CDATA[<h1>Links:</h1>
+
+<p><a href="http://programmers.stackexchange.com/questions/16528/single-statement-if-block-braces-or-no">http://programmers.stackexchange.com/questions/16528/single-statement-if-block-braces-or-no</a><br/>
+<a href="http://www.sketchingwithcss.com/samplechapter/cheatsheet.html">http://www.sketchingwithcss.com/samplechapter/cheatsheet.html</a><br/>
+<a href="http://resin.io/happy-18th-birthday-javascript/">http://resin.io/happy-18th-birthday-javascript/</a><br/>
+<a href="http://mrpotes.github.io/jshint-extension/">http://mrpotes.github.io/jshint-extension/</a><br/>
+<a href="http://tech.pro/tutorial/1743/javascript-template-engine-in-just-20-lines">http://tech.pro/tutorial/1743/javascript-template-engine-in-just-20-lines</a><br/>
+<a href="http://ejohn.org/apps/learn/">http://ejohn.org/apps/learn/</a><br/>
+<a href="https://github.com/coolwanglu/vim.js">https://github.com/coolwanglu/vim.js</a><br/>
+<a href="http://plnkr.co/edit/3URdRjICx4wpVQCRf5y7">http://plnkr.co/edit/3URdRjICx4wpVQCRf5y7</a><br/>
+<a href="http://www.storminthecastle.com/projects/goo.js/">http://www.storminthecastle.com/projects/goo.js/</a><br/>
+<a href="https://github.com/johnrobinsn/goo.js/blob/master/src/goo.js">https://github.com/johnrobinsn/goo.js/blob/master/src/goo.js</a><br/>
+<a href="http://en.wikipedia.org/wiki/Grey_goo">http://en.wikipedia.org/wiki/Grey_goo</a><br/>
+<a href="http://perfectionkills.com/exploring-canvas-drawing-techniques/">http://perfectionkills.com/exploring-canvas-drawing-techniques/</a><br/>
+<a href="http://oridomi.com">http://oridomi.com</a><br/>
+<a href="http://ubilabs.github.io/geocomplete/">http://ubilabs.github.io/geocomplete/</a><br/>
+<a href="http://www.html5rocks.com/en/tutorials/canvas/performance/">http://www.html5rocks.com/en/tutorials/canvas/performance/</a></p>
+
+<p>=== Home works, practics ==== <br/>
+<a href="http://plnkr.co/edit/AqkKoXLYOl5gdWSuQkIN">http://plnkr.co/edit/AqkKoXLYOl5gdWSuQkIN</a><br/>
+<a href="https://docs.google.com/document/d/1dxcOKLLkVPBOF46XQspO3PLmTKsEvp5Fk0IBgkbpKs4/edit"> https://docs.google.com/document/d/1dxcOKLLkVPBOF46XQspO3PLmTKsEvp5Fk0IBgkbpKs4/edit</a><br/>
+<a href="https://github.com/sudodoki/sample-utils-test">https://github.com/sudodoki/sample-utils-test</a></p>
+
+<p><img src="http://placekitten.com/g/250/250"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JS Course JQuery lesson1]]></title>
