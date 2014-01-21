@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2014-01-21T15:29:50+02:00</updated>
+  <updated>2014-01-21T22:57:13+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Migration from Rails 3.2 to Rails 4 with Devise, Hstore, Facebook oauth and bunch of staff]]></title>
+    <title type="html"><![CDATA[Migration from Rails 3.2 to Rails 4 with Devise, Hstore, Facebook oauth and bunch of stuff]]></title>
     <link href="http://suchov.github.io/blog/2014/01/21/migration-from-rails-3-dot-2-to-rails-4-with-devise-hstore-facebook-oauth/"/>
     <updated>2014-01-21T12:08:00+02:00</updated>
     <id>http://suchov.github.io/blog/2014/01/21/migration-from-rails-3-dot-2-to-rails-4-with-devise-hstore-facebook-oauth</id>
