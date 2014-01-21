@@ -9,10 +9,7 @@
   <meta name="author" content="Artem Sychov">
 
   
-  <meta name="description" content=" Links Chef
-Deploying a Rails + Capistrano on Digital Ocean
-Capistrano
-">
+  <meta name="description" content="In this articles series, I’ll try to cover all the issues that I had, when I was upgrading one of my Rails app from Ruby on Rails 3.2 to Ruby on &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -89,6 +86,81 @@ Capistrano
 
 <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/01/21/migration-from-rails-3-dot-2-to-rails-4-with-devise-hstore-facebook-oauth/">Migration From Rails 3.2 to Rails 4 With Devise, Hstore, Facebook Oauth and Bunch of Staff</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-01-21T12:08:00+02:00" pubdate data-updated="true">Jan 21<span>st</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h2>In this articles series, I’ll try to cover all the issues that I had, when I was upgrading one of my Rails app from Ruby on Rails 3.2 to Ruby on Rails 4.0.2.</h2>
+
+<ul>
+<li>Upgrade your Ruby version at least to 2.0(I would recommend 2.1)</li>
+<li>Upgrade bundler</li>
+<li>Upgrade your application to the most recent Rails 3.2 version</li>
+<li>Check gems compatibility <a href="http://ready4rails4.net/">ready4rails4.net</a></li>
+<li>Write more tests, they&rsquo;ll be very usefull</li>
+</ul>
+
+
+<p>I recommend to use bunch of usefull gems to upgrage your app step by step:<br/>
+gem <a href="https://github.com/rails/protected_attributes"> protected_attributes </a><br/>
+gem <a href="https://github.com/rails/activeresource"> active_resource </a><br/>
+gem <a href="https://github.com/rails/actionpack-action_caching">actionpack-action_caching</a><br/>
+gem <a href="https://github.com/rails/activerecord-session_store">activerecord-session_store</a><br/>
+gem <a href="https://github.com/rails/rails-observers"> rails-observers </a></p>
+
+<p>So first &ndash; watch the video: (<a href="http://railscasts.com/episodes/415-upgrading-to-rails-4">http://railscasts.com/episodes/415-upgrading-to-rails-4</a>)<br/>
+Then modify your Gemfile, if you have an assets group, it needs to be removed&hellip;<br/>
+Don&rsquo;t forget:<br/>
+&ndash; to update any gems that require something special<br/>
+&ndash; <a href="http://guides.rubyonrails.org/configuring.html#configuring-rails-components">filter_parameters</a><br/>
+&ndash; <a href="http://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html#config-secrets-yml">secret_key_base (you can use rake task: &lsquo;rake secret&rsquo;)</a><br/>
+&ndash; <a href="http://edgeapi.rubyonrails.org/classes/ActionController/StrongParameters.html">strong parameters</a><br/>
+&ndash; &hellip;</p>
+
+<p>Some links that may help you:<br/>
+<a href="http://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html#upgrading-from-rails-3-2-to-rails-4-0">Edgeguides upgrading-from-rails-3-2-to-rails-4-0</a><br/>
+<a href="http://dev.mensfeld.pl/2013/06/upgrading-to-rails-4-0-from-rails-3-2-test-case-part-i-preparations-configuration-gems/">Upgrading to Rails 4.0 from Rails 3.2 – Test case – Part I (preparations, configuration, gems)</a>
+<a href="http://upgradingtorails4.com/">http://upgradingtorails4.com/</a></p>
+
+<p>Hstore:<br/>
+<a href="http://blog.remarkablelabs.com/2012/12/a-love-affair-with-postgresql-rails-4-countdown-to-2013">postgresql-rails-4-countdown</a><br/>
+<a href="http://inopinatus.org/2013/07/12/using-arrays-of-hstore-with-rails-4/">using-arrays-of-hstore-with-rails-4</a></p>
+
+<p>If you&rsquo;ll have a problem with devise strong(unpermited)parameters:<br/>
+<a href="http://stackoverflow.com/questions/18629221/unpermitted-parameters-devise-oauth-rails-4">http://stackoverflow.com/questions/18629221/unpermitted-parameters-devise-oauth-rails-4</a><br/>
+<a href="https://github.com/plataformatec/devise">https://github.com/plataformatec/devise</a><br/>
+<a href="https://coderwall.com/p/bsfitw">https://coderwall.com/p/bsfitw</a></p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -630,71 +702,6 @@ Capistrano
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/11/07/js-course-third-lesson/">JS Course Third Lesson</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-11-07T10:33:00+02:00" pubdate data-updated="true">Nov 7<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h1><a href="http://codeangels.github.io/css_basics/#/">http://codeangels.github.io/css_basics/</a> &ndash; CSS</h1>
-
-<h1>Links:</h1>
-
-<p><a href="http://css-tricks.com">http://css-tricks.com</a><br/>
-<a href="http://csswizardry.com/">http://csswizardry.com/</a><br/>
-<a href="http://www.smashingmagazine.com/">http://www.smashingmagazine.com/</a><br/>
-<a href="http://alistapart.com/">http://alistapart.com/</a><br/>
-<a href="http://davidwalsh.name/">http://davidwalsh.name/</a><br/>
-<a href="http://blog.teamtreehouse.com/">http://blog.teamtreehouse.com/</a><br/>
-<a href="http://lea.verou.me/">http://lea.verou.me/</a><br/>
-<a href="http://www.stubbornella.org/content/">http://www.stubbornella.org/content/</a></p>
-
-<h2>Home work</h2>
-
-<ol>
-<li>Допишите первую домашку.</li>
-<li>Кто получил фидбек &ndash; доработайте страницу.</li>
-<li>Подключите к странице css фаил.</li>
-<li>Измените фон (любой) всей страницы.</li>
-<li>Измените заголовок (любой стиль), увеличьте первую букву каждого параграфа.</li>
-<li>Поменяйте цвет текста всех ссылок: ссылки меню &ndash; одного цвета, ссылки на странице &ndash; другого.</li>
-<li>Добавьте стили для ссылок при наведении на них.</li>
-<li>Измените цвет фона одного из разделов, на котором есть id, но используя класс и измените в нем размер шрифта.</li>
-<li>Не забудьте добавить в цсс фаил минимальный reset, на ваше усмотрение.</li>
-<li>Используйте псевдо-элементы :before/:after &ndash; минимум один раз на странице, на ваше усмотрение.</li>
-</ol>
-
-
-<p><img src="http://placekitten.com/g/400/400"></p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/2/">&larr; Older</a>
@@ -710,6 +717,10 @@ Capistrano
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/01/21/migration-from-rails-3-dot-2-to-rails-4-with-devise-hstore-facebook-oauth/">Migration From Rails 3.2 to Rails 4 With Devise, Hstore, Facebook Oauth and Bunch of Staff</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/12/21/ror-course-capistrano-and-chef/">RoR Course Capistrano &amp; Chef</a>
       </li>
     
@@ -723,10 +734,6 @@ Capistrano
     
       <li class="post">
         <a href="/blog/2013/11/28/js-course-jquery-lesson1/">JS Course JQuery Lesson1</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/11/18/js-course-fifth-lesson/">JS Course Fifth && Six Lesson</a>
       </li>
     
   </ul>
@@ -780,7 +787,7 @@ Capistrano
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Artem Sychov -
+  Copyright &copy; 2014 - Artem Sychov -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a><a href="http://share.payoneer-affiliates.com/a/clk/139rcM">Be smart, use Payoneer</a></span>
 </p>
 
