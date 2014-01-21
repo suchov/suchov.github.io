@@ -4,7 +4,7 @@
   <title><![CDATA[Such Blog]]></title>
   <link href="http://suchov.github.io/atom.xml" rel="self"/>
   <link href="http://suchov.github.io/"/>
-  <updated>2014-01-21T15:11:40+02:00</updated>
+  <updated>2014-01-21T15:29:50+02:00</updated>
   <id>http://suchov.github.io/</id>
   <author>
     <name><![CDATA[Artem Sychov]]></name>
@@ -18,7 +18,7 @@
     <link href="http://suchov.github.io/blog/2014/01/21/migration-from-rails-3-dot-2-to-rails-4-with-devise-hstore-facebook-oauth/"/>
     <updated>2014-01-21T12:08:00+02:00</updated>
     <id>http://suchov.github.io/blog/2014/01/21/migration-from-rails-3-dot-2-to-rails-4-with-devise-hstore-facebook-oauth</id>
-    <content type="html"><![CDATA[<h2>In this articles series, I’ll try to cover all the issues that I had, when I was upgrading one of my Rails app from Ruby on Rails 3.2 to Ruby on Rails 4.0.2.</h2>
+    <content type="html"><![CDATA[<h2>In this article, I’ll try put best things thet I found, when I was upgrading one of my Rails app from Ruby on Rails 3.2 to Ruby on Rails 4.0.2.</h2>
 
 <ul>
 <li>Upgrade your Ruby version at least to 2.0(I would recommend 2.1)</li>
