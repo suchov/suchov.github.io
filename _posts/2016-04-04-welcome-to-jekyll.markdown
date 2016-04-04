@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New designe & strategy for my blog"
+title:  "iframe for the Decorist"
 date:   2016-04-04 19:04:32 +0300
 categories: jekyll update
 ---
