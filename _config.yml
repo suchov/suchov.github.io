@@ -9,7 +9,7 @@
 title: Such Blog
 email: artem.suchov@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Simple Blog of a developer, Project Manager, Kottan & just a fun guy.
+  Simple Blog of a dev, PM & Kottan.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://suchov.com" # the base hostname & protocol for your site
 twitter_username: ArtemSuchov
