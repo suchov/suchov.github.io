@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About HTML form Aleksey Shvayka"
+title:  "About HTML form Aleksey Shvayka (part 2)"
 date:   2016-05-18 13:40:32 +0300
 categories: Kottans update
 ---
