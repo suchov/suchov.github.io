@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About CSS form Aleksey Shvayka"
+title:  "About CSS from Aleksey Shvayka"
 date:   2016-05-24 19:30:32 +0300
 categories: Kottans update
 ---
