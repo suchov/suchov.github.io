@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "About JS & ES6 from Aleksey Shvayka"
-date:   2016-05-31 19:30:32 +0300
+title:  "About JS from Aleksey Shvayka part 2"
+date:   2016-06-02 19:30:32 +0300
 categories: Kottans update
 ---
 
