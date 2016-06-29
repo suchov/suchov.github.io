@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About CORS / SDOP / Other stuff from Illya Klimov"
-date:   2016-06-14 19:30:32 +0300
+date:   2016-06-16 19:30:32 +0300
 categories: Kottans update
 ---
 

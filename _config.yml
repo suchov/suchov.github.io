@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Such Blog
+title: Artem Sychov
 email: artem.suchov@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Such Blog of a dev, PM & Kottan.
+  I solve problems related to online businesses. Teach developers at kottans.org.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://suchov.com" # the base hostname & protocol for your site
 twitter_username: ArtemSuchov
