@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Testing from Illya Klimov"
-date:   2016-06-18 19:30:32 +0300
+date:   2016-06-23 19:30:32 +0300
 categories: Kottans update
 ---
 
