@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "About HTML form Aleksey Shvayka"
+title:  "HTML crash course form Aleksey Shvayka for Kottans"
 date:   2016-05-18 13:40:32 +0300
 categories: Kottans update
 ---
 
 <iframe width="640" height="390" src="https://www.youtube.com/embed/Y7-0yo4KCVk" frameborder="0" allowfullscreen></iframe>
++ [@shvaikalesh](https://twitter.com/shvaikalesh)
 + [html validator](https://validator.w3.org/nu/)
 + [html content models](https://developers.whatwg.org/content-models.html#content-models)
 + [Сколько нужно верстальщиков, чтобы вставить picture?](https://www.youtube.com/watch?v=Szo-2D7TtEU)
