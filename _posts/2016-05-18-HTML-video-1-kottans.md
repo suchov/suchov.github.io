@@ -17,6 +17,7 @@ categories: Kottans update
 + [Сколько нужно верстальщиков, чтобы вставить picture?](https://www.youtube.com/watch?v=Szo-2D7TtEU)
 + [Десять вопросов HTML](https://habrahabr.ru/post/244929/)
 + [Can I use](http://caniuse.com/)
++ [Can I use in console](https://github.com/sgentle/caniuse-cmd)
 + [A caniuse command line tool](https://github.com/sgentle/caniuse-cmd)
 + [Articles relating to HTML5, its semantics, and how to use it right now](http://html5doctor.com/)
 + [codewars.com](http://www.codewars.com/about)
