@@ -22,8 +22,9 @@ Deep practical knowledge in leadership and motivational processes.
 * Building and leading an engineering team, through recruitment, development, and
 coaching
 * Driving the innovation, development, and implementation, of software infrastructure, that can
-scale to the needs of our global audience
+scale to the needs of our audience
 * Managing day to day engineering operations, deliverables, and priorities
+* Develop best practices and architecture
 * Participating in day to day development, architecture, and project planning
 * Ensuring engineering and operations teams are working closely and collaboratively as one team
 on behalf of the customer
@@ -35,10 +36,8 @@ on behalf of the customer
 #### [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco Bay Area / Kiev Ukraine
 (Software Development Consulting Company) - From software engineer to a partner
 
-* Sales
-* development
-* Hiring
-* Team building
+* Building and leading an engineering teams
+* Involved in Pre-Sales and Post-Sales processes
 
 Projects involved in:
 
@@ -55,12 +54,21 @@ Projects involved in:
 #### [Ruby Garage](https://rubygarage.org/)(June 2012 - January 2013) Dnipropetrovsk Ukraine
 (Software Development Consulting Company) - Project/Sales Manager
 
+* Project Management
+* Recruitment
+* Managing customer requirements and expectations
+* Pre-Sales and Post-Sales activity
+* Exploring new marketing channels
+
 <!-- RUBYGARAGE -->
 
 <!-- TUNHOG -->
 
 #### [R&R Music Ltd](https://www.linkedin.com/company/1938618) (January 2012 - June 2012) Kiev Ukraine
 (Multi-application digital media platform) - Software developer
+
+* Developing features in an agile environment using Ruby on Rails, HTML, CSS and JavaScript
+* Managing code with unit tests and GitHub
 
 <!-- TUNHOG -->
 
@@ -69,7 +77,8 @@ Projects involved in:
 #### [Tuto](http://tuto.bigopt.com/) (2008 - 2012) Kiev Ukraine
 (Small footwear manufacturing company with distribution network) - Project Manager/Head of IT department
 
-Building automation system for product registration from scratch. Creating and leading the IT department.
+* Building automation system for product registration from scratch.
+* Creating and leading the IT department.
 
 <!-- TUNHOG -->
 
@@ -92,7 +101,7 @@ National Pedagogical University 2006 - 2007, Kiev, Specialist degree in Psycholo
 
 # Certifications
 
-Preparation for PMP exam May - July 2016 [Spider Ukraine](http://spiderproject.com.ua/en/certification/calendar/)
+Preparation for PMP exam (May - July 2016) [Spider Ukraine](http://spiderproject.com.ua/en/certification/calendar/)
 
 [Coursera specializations project-management](https://www.coursera.org/specializations/project-management)
 
