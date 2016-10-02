@@ -33,7 +33,7 @@ on behalf of the customer
 <!-- RUBYRIDERS -->
 
 #### [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco Bay Area / Kiev Ukraine
-(Software Development Consulting Company) - From software engineer to a partner.
+(Software Development Consulting Company) - From software engineer to a partner
 
 * Sales
 * development
@@ -76,7 +76,7 @@ Building automation system for product registration from scratch. Creating and l
 <!-- PERIODICA -->
 
 #### [Periodica](http://www.periodik.com.ua/) (2004 - 2008) Kiev Ukraine
-(Subscription Agency) - From trainee to department manager.
+(Subscription Agency) - From trainee to department manager
 <!-- TODO fix this -->
 
 * Hiring
