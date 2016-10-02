@@ -4,17 +4,11 @@ title: ""
 permalink: /cv/
 ---
 
-artem.suchov@gmail.com
-
-Skype: suchovav
-
-Cell: +1 925 568 65 37
-
 # Professional Summary
 
-Innovative, result oriented ***project manager*** with 8+ years experience of people management and technical background. Strong communication, presentation, analytical and problem solving skills.
-Excel in team building, finding and growing talents.
-Understanding of how to improve people behavior performance results and productivity.
+Innovative, result oriented ***project manager*** with 8+ years experience of people management with psychological and technical background. Strong communication, presentation, analytical and problem solving skills.
+Excel in team building, bringing together strong individuals in order to bring to life ideas.
+Deep practical knowledge in leadership and motivational processes.
 
 # Professional Experience
 
@@ -40,7 +34,7 @@ on behalf of the customer
 
 <!-- RUBYRIDERS -->
 
-#### [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - 2014) San Francisco Bay Area / Kiev Ukraine
+#### [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco Bay Area / Kiev Ukraine
 (Software Development Consulting Company)
 
 From software engineer to a partner.
@@ -55,7 +49,8 @@ Projects involved in:
 * [Cloverpop](https://www.cloverpop.com/)
 * [Seedchange](https://www.seedchange.com/)
 * [Decorist](https://www.decorist.com/)
-* [Cloverpop](https://www.cloverpop.com/)
+* [Litigo](http://www.litigo.org/)
+* [FUNCTION4](http://fn4.us/)
 
 <!-- RUBYRIDERS -->
 
@@ -112,9 +107,12 @@ Preparation for PMP exam May - July 2016 [Spider Ukraine](http://spiderproject.c
 
 # Activities and Interests
 
-Founder of [kottans.org](http://kottans.org/)
+Founder & leading [kottans.org](http://kottans.org/) gang:
+
 * [On DOU.ua](https://dou.ua/forums/tags/kottans.org/)
 * [On AIN.ua](http://ain.ua/tag/kottans)
+* [Github](https://github.com/Kottans)
 
 Articles:
+
 * [rb.ru](http://rb.ru/author/sychov/)
