@@ -15,9 +15,7 @@ Deep practical knowledge in leadership and motivational processes.
 <!-- DECORIST -->
 
 #### [Decorist](https://www.decorist.com/) (2014 - present) San Francisco Bay Area / Kiev Ukraine
-(online design services)
-
-Project Manager
+(online design services) - Project Manager
 
 * Leading multiple projects simultaneously, company development process, products changes and improvements. [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
 * Hiring development team from the first person, growing the size of the team from 1 to 15 people(+15 contractors - 3D design)
@@ -35,9 +33,7 @@ on behalf of the customer
 <!-- RUBYRIDERS -->
 
 #### [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco Bay Area / Kiev Ukraine
-(Software Development Consulting Company)
-
-From software engineer to a partner.
+(Software Development Consulting Company) - From software engineer to a partner.
 
 * Sales
 * development
@@ -57,27 +53,21 @@ Projects involved in:
 <!-- RUBYGARAGE -->
 
 #### [Ruby Garage](https://rubygarage.org/)(June 2012 - January 2013) Dnipropetrovsk Ukraine
-(Software Development Consulting Company)
-
-Project/Sales Manager
+(Software Development Consulting Company) - Project/Sales Manager
 
 <!-- RUBYGARAGE -->
 
 <!-- TUNHOG -->
 
 #### [R&R Music Ltd](https://www.linkedin.com/company/1938618) (January 2012 - June 2012) Kiev Ukraine
-(Multi-application digital media platform)
-
-Software developer
+(Multi-application digital media platform) - Software developer
 
 <!-- TUNHOG -->
 
 <!-- TUTO -->
 
 #### [Tuto](http://tuto.bigopt.com/) (2008 - 2012) Kiev Ukraine
-(Small footwear manufacturing company with distribution network)
-
-Project Manager/Head of IT department
+(Small footwear manufacturing company with distribution network) - Project Manager/Head of IT department
 
 Building automation system for product registration from scratch. Creating and leading the IT department.
 
@@ -86,12 +76,13 @@ Building automation system for product registration from scratch. Creating and l
 <!-- PERIODICA -->
 
 #### [Periodica](http://www.periodik.com.ua/) (2004 - 2008) Kiev Ukraine
-(Subscription Agency)
+(Subscription Agency) - From trainee to department manager.
 <!-- TODO fix this -->
 
-From trainee to department manager, responsible for prepearing tender documentation for large government organizations.
+* Hiring
+* Managing department
+* Preparing tender documentation for biggest national libraries and government organizations
 
-* Manging department
 
 <!-- PERIODICA -->
 
