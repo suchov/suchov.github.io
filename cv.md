@@ -4,6 +4,12 @@ title: ""
 permalink: /cv/
 ---
 
+Phone: +1 925 568 65 37
+
+Address: 5 Prado St APT 202, San Francisco, CA 94123
+
+Skype: suchovav
+
 # Professional Summary
 
 Innovative, result oriented ***project manager*** with 9+ years  of people management experience with psychological and technical background. Strong communication, presentation, analytical and problem solving skills.
