@@ -7,33 +7,31 @@ permalink: /cv/
 # Professional Summary
 
 Innovative, result oriented ***project manager*** with 9+ years  of people management experience with psychological and technical background. Strong communication, presentation, analytical and problem solving skills.
-Excel in team building, bringing together strong individuals in order to bring to life ideas.
-Deep practical knowledge in leadership and motivational processes.
+Excel in team building, deep practical knowledge in leadership and motivational processes.
 
 # Professional Experience
 
 <!-- DECORIST -->
 
-#### [Decorist](https://www.decorist.com/) (2014 - present) San Francisco Bay Area / Kiev Ukraine
-(online design services) - Project Manager
+#### [Decorist](https://www.decorist.com/) (2014 - present) San Francisco, USA / Kiev, Ukraine
+(online interior design services) - Project Manager
 
 * Leading multiple projects simultaneously, company development process, products changes and improvements [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
-* Hiring development team from the first person, growing the size of the team to 30 people
+<!-- * Hiring development team from the first person, growing the size of the team to 30 people -->
 * Building and leading an engineering team, through recruitment, development, and
 coaching
-* Driving the innovation, development, and implementation, of software infrastructure, that can
-scale to the needs of our audience
+* Driving the innovation, development, and implementation of software infrastructure
 * Managing day to day engineering operations, deliverables, and priorities
-* Develop best practices and architecture
-* Participating in day to day development, architecture, and project planning
+* Develop best practices and software architecture
 * Ensuring engineering and operations teams are working closely and collaboratively as one team
 on behalf of the customer
+* Risk and cost management
 
 <!-- DECORIST -->
 
 <!-- RUBYRIDERS -->
 
-#### [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco Bay Area / Kiev Ukraine
+#### [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco, USA / Kiev, Ukraine
 (Software Development Consulting Company) - From software engineer to a partner
 
 * Developing consumer based features and applications using Ruby on Rails, JavaScript, Angular, HTML, CSS and Behavior Driven Development (BDD)
