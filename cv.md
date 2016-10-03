@@ -74,20 +74,21 @@ Projects involved in:
 <!-- TUTO -->
 
 #### [Tuto](http://tuto.bigopt.com/) (2008 - 2012) Kiev Ukraine
-(Small footwear manufacturing company with distribution network) - ***Project Manager/Head of IT department***
+(footwear manufacturing company with distribution network) - ***Project Manager/Head of IT department***
 
-* Building automation system for product registration from scratch.
-* Creating and leading the IT department.
+* Building automation system for product registration from scratch
+* Creating and leading the IT department
 
 <!-- TUNHOG -->
 
 <!-- PERIODICA -->
 
-#### [Periodica](http://www.periodik.com.ua/) (2004 - 2008) Kiev Ukraine
-(Subscription Agency) - From trainee to department manager
+#### [Periodica](http://www.periodik.com.ua/) (2004 - 2008) Kiev, Ukraine
+(Subscription Agency) - ***Department Manager***
 <!-- TODO fix this -->
 
-* Hiring
+* Building and leading team, through recruitment, development, and
+coaching
 * Managing department
 * Preparing tender documentation for biggest national libraries and government organizations
 
@@ -95,8 +96,9 @@ Projects involved in:
 <!-- PERIODICA -->
 
 # Education
-National Pedagogical University 2002 - 2006, Kiev, Bachelor's degree in Psychology
-National Pedagogical University 2006 - 2007, Kiev, Specialist degree in Psychology
+National Pedagogical University 2002 - 2006, Kiev, Ukraine, Bachelor's degree in Psychology
+
+National Pedagogical University 2006 - 2007, Kiev, Ukraine, Specialist degree in Psychology
 
 # Certifications
 
