@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Professional Summary
 
-Innovative, result oriented ***project manager*** with 8+ years experience of people management with psychological and technical background. Strong communication, presentation, analytical and problem solving skills.
+Innovative, result oriented ***project manager*** with 9+ years  of people management experience with psychological and technical background. Strong communication, presentation, analytical and problem solving skills.
 Excel in team building, bringing together strong individuals in order to bring to life ideas.
 Deep practical knowledge in leadership and motivational processes.
 
@@ -17,8 +17,8 @@ Deep practical knowledge in leadership and motivational processes.
 #### [Decorist](https://www.decorist.com/) (2014 - present) San Francisco Bay Area / Kiev Ukraine
 (online design services) - Project Manager
 
-* Leading multiple projects simultaneously, company development process, products changes and improvements. [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
-* Hiring development team from the first person, growing the size of the team from 1 to 15 people(+15 contractors - 3D design)
+* Leading multiple projects simultaneously, company development process, products changes and improvements [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
+* Hiring development team from the first person, growing the size of the team to 30 people
 * Building and leading an engineering team, through recruitment, development, and
 coaching
 * Driving the innovation, development, and implementation, of software infrastructure, that can
@@ -36,8 +36,11 @@ on behalf of the customer
 #### [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco Bay Area / Kiev Ukraine
 (Software Development Consulting Company) - From software engineer to a partner
 
+* Developing consumer based features and applications using Ruby on Rails, JavaScript, Angular, HTML, CSS and Behavior Driven Development (BDD)
 * Building and leading an engineering teams
 * Involved in Pre-Sales and Post-Sales processes
+* Build and manage recruitment processes
+* Develop best practices and architecture
 
 Projects involved in:
 
