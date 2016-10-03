@@ -96,24 +96,25 @@ coaching
 <!-- PERIODICA -->
 
 # Education
-National Pedagogical University 2002 - 2006, Kiev, Ukraine, Bachelor's degree in Psychology
 
-National Pedagogical University 2006 - 2007, Kiev, Ukraine, Specialist degree in Psychology
+National Pedagogical University, Kiev, Ukraine, 2002 - 2006 Bachelor's degree in Psychology
+
+National Pedagogical University, Kiev, Ukraine, 2006 - 2007 Graduate Certificate in Apply Psychology
 
 # Certifications
 
-Preparation for PMP exam (May - July 2016) [Spider Ukraine](http://spiderproject.com.ua/en/certification/calendar/)
+Preparation for PMP exam (May - July 2016) [Spider](http://spiderproject.com.ua/en/certification/calendar/), Kiev, Ukraine
 
-[Coursera specializations project-management](https://www.coursera.org/specializations/project-management)
+[Project Management Principles and Practices(Coursera)](https://www.coursera.org/specializations/project-management)
 
 # Activities and Interests
 
-Founder & leading [kottans.org](http://kottans.org/) gang:
+Founder [kottans.org](http://kottans.org/):
 
 * [On DOU.ua](https://dou.ua/forums/tags/kottans.org/)
 * [On AIN.ua](http://ain.ua/tag/kottans)
 * [Github](https://github.com/Kottans)
 
-Articles:
+Publications:
 
 * [rb.ru](http://rb.ru/author/sychov/)
