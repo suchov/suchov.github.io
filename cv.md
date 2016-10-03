@@ -50,7 +50,7 @@ Projects involved in:
 
 <!-- RUBYGARAGE -->
 
-#### [Ruby Garage](https://rubygarage.org/)(June 2012 - January 2013) Dnipropetrovsk Ukraine
+#### [Ruby Garage](https://rubygarage.org/)(June 2012 - January 2013) Dnipropetrovsk, Ukraine
 (Software Development Consulting Company) - ***Project/Sales Manager***
 
 * Project Management
