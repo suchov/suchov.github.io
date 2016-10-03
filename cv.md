@@ -55,9 +55,9 @@ Projects involved in:
 
 * Project Management
 * Recruitment
-* Managing customer requirements and expectations
+* Customer requirements and expectations management
 * Pre-Sales and Post-Sales activity
-* Exploring new marketing channels
+* New marketing channels exploration
 
 <!-- RUBYGARAGE -->
 
