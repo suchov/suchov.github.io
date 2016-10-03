@@ -107,7 +107,7 @@ Preparation for PMP exam (May - July 2016) [Spider](http://spiderproject.com.ua/
 
 [Project Management Principles and Practices(Coursera)](https://www.coursera.org/specializations/project-management)
 
-# Activities and Interests
+# Projects
 
 Founder [kottans.org](http://kottans.org/):
 
@@ -115,6 +115,6 @@ Founder [kottans.org](http://kottans.org/):
 * [On AIN.ua](http://ain.ua/tag/kottans)
 * [Github](https://github.com/Kottans)
 
-Publications:
+Articles:
 
 * [rb.ru](http://rb.ru/author/sychov/)
