@@ -111,8 +111,8 @@ Preparation for PMP exam (May - July 2016) [Spider](http://spiderproject.com.ua/
 
 Founder [kottans.org](http://kottans.org/):
 
-* [On DOU.ua](https://dou.ua/forums/tags/kottans.org/)
 * [On AIN.ua](http://ain.ua/tag/kottans)
+* [On DOU.ua](https://dou.ua/forums/tags/kottans.org/)
 * [Github](https://github.com/Kottans)
 
 Articles:
