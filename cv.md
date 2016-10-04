@@ -108,11 +108,13 @@ National Pedagogical University, Kiev, Ukraine, 2002 - 2006 Bachelor's degree in
 National Pedagogical University, Kiev, Ukraine, 2006 - 2007 Graduate Certificate in Apply Psychology
 
 # Certifications
-
+<!-- TODO University in front of the courses -->
 Preparation for PMP exam (May - July 2016) [Spider](http://spiderproject.com.ua/en/certification/calendar/), Kiev, Ukraine
 
+<!-- University of California, Irvine -->
 [Project Management Principles and Practices(Coursera)](https://www.coursera.org/specializations/project-management)
 
+<!-- University of California, San Diego -->
 [Learning How to Learn(Coursera)](https://www.coursera.org/learn/learning-how-to-learn)
 
 # Projects
