@@ -114,6 +114,7 @@ Preparation for PMP exam (May - July 2016) [Spider](http://spiderproject.com.ua/
 [Project Management Principles and Practices(Coursera)](https://www.coursera.org/specializations/project-management)
 
 [Learning How to Learn(Coursera)](https://www.coursera.org/learn/learning-how-to-learn)
+
 # Projects
 
 Founder [kottans.org](http://kottans.org/):
