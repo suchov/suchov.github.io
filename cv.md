@@ -12,8 +12,7 @@ Skype: suchovav
 
 # Professional Summary
 
-Innovative, result oriented ***project manager*** with 9+ years  of people management experience with psychological and technical background. Strong communication, presentation, analytical and problem solving skills.
-Excel in team building, deep practical knowledge in leadership and motivational processes.
+Innovative, result oriented ***project manager*** with 9+ years of people management experience with the psychological and technical background. Strong communication, presentation, analytical and problem-solving skills. Excel in team building, deep practical knowledge in leadership and motivational processes.
 
 # Professional Experience
 
