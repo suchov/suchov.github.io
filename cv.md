@@ -12,16 +12,34 @@ Skype: suchovav
 
 # Professional Summary
 
-Innovative, result oriented ***information technology manager*** with 9+ years of people management experience with the psychological and technical background. Strong communication, presentation, analytical and problem-solving skills. Excel in team building, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC.
+Innovative, result oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Strong communication, presentation, analytical and problem-solving skills. Excel in team building, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC.
 
 # Professional Experience
 
+<!-- Cloverpop -->
+
+#### [Cloverpop](https://www.cloverpop.com/) (2017 - present) San Francisco, USA / Kiev, Ukraine
+(online interior design services) - ***Engineering Manager***
+
+* Leading company development process, products changes and improvements.
+<!-- * Hiring development team from the first person, growing the size of the team to 30 people -->
+* Building and leading engineering team, through recruitment, development, and
+coaching
+* Driving the innovation, development, and implementation of software infrastructure
+* Managing day to day engineering operations, deliverables, and priorities
+* Developing best practices and software architecture
+* Ensuring engineering and operations teams are working closely and collaboratively as one team
+on behalf of the customer
+* Risk and cost management
+
+<!-- Cloverpop -->
+
 <!-- DECORIST -->
 
-#### [Decorist](https://www.decorist.com/) (2014 - present) San Francisco, USA / Kiev, Ukraine
-(online interior design services) - ***Project Manager***
+#### [Decorist](https://www.decorist.com/) (2014 - 2017) San Francisco, USA / Kiev, Ukraine
+(online interior design services) - ***Engineering Manager***
 
-* Leading multiple projects simultaneously, company development process, products changes and improvements [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
+* Leading company development process, products changes and improvements [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
 <!-- * Hiring development team from the first person, growing the size of the team to 30 people -->
 * Building and leading engineering team, through recruitment, development, and
 coaching
