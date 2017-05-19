@@ -4,8 +4,6 @@ title: ""
 permalink: /cv/
 ---
 
-Address: 5 Prado St APT 202, San Francisco, CA 94123
-
 Skype: suchovav
 
 # Professional Summary
