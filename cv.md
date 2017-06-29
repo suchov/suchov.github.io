@@ -15,18 +15,15 @@ Innovative, result oriented ***Engineering Manager*** with 10+ years of people m
 <!-- Cloverpop -->
 
 #### [Cloverpop](https://www.cloverpop.com/) (2017 - present) San Francisco, USA / Kiev, Ukraine
-(online interior design services) - ***Engineering Manager***
+***Engineering Manager***
 
-* Leading company development process, products changes and improvements.
-<!-- * Hiring development team from the first person, growing the size of the team to 30 people -->
+* Leading company development process.
 * Building and leading engineering team, through recruitment, development, and
 coaching
-* Driving the innovation, development, and implementation of software infrastructure
-* Managing day to day engineering operations, deliverables, and priorities
-* Developing best practices and software architecture
+* Managing day to day engineering operations
+* Developing best practices
 * Ensuring engineering and operations teams are working closely and collaboratively as one team
-on behalf of the customer
-* Risk and cost management
+on behalf of the product
 
 <!-- Cloverpop -->
 
@@ -44,7 +41,6 @@ coaching
 * Developing best practices and software architecture
 * Ensuring engineering and operations teams are working closely and collaboratively as one team
 on behalf of the customer
-* Risk and cost management
 
 <!-- DECORIST -->
 
@@ -119,16 +115,8 @@ coaching
 National Pedagogical University, Kiev, Ukraine, 2002 - 2006 Bachelor's degree in Psychology
 
 National Pedagogical University, Kiev, Ukraine, 2006 - 2007 Graduate Certificate in Apply Psychology
-
-# Certifications
 <!-- TODO University in front of the courses -->
 Preparation for PMP exam (May - July 2016) [Spider](http://spiderproject.com.ua/en/certification/calendar/), Kiev, Ukraine
-
-<!-- University of California, Irvine -->
-[Project Management Principles and Practices(Coursera)](https://www.coursera.org/specializations/project-management)
-
-<!-- University of California, San Diego -->
-[Learning How to Learn(Coursera)](https://www.coursera.org/learn/learning-how-to-learn)
 
 # Projects
 
