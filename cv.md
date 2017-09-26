@@ -127,7 +127,7 @@ Founder of [kottans.org](http://kottans.org/):
 * [Github](https://github.com/Kottans)
 * [Github](https://github.com/Kottans)
 
-Founder of [Rubyschool](http://rubyschool.co/)
+<!-- Founder of [Rubyschool](http://rubyschool.co/) -->
 
 Articles:
 
