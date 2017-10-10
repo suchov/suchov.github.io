@@ -6,6 +6,6 @@ permalink: /about/
 
 ![Image of Me](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAhDAAAAJDI5NjgzZWFkLTk1MzMtNDNhNy05YmM5LWRjMzg3ZTcxM2MxZQ.jpg)
 
-Build, manage and motivate teams & code is my passions. Boss at [kottans.org](http://kottans.org/)
+Build, manage and motivate teams & code is my passions. Boss at [kottans.org](http://kottans.org/) Organizer at [Nodeschool Kiev](https://nodeschool.io/kyiv/)
 
 [Linkedin](https://www.linkedin.com/in/suchov)
