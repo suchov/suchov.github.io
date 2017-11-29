@@ -125,9 +125,9 @@ Founder of [kottans.org](http://kottans.org/):
 * [On AIN.ua](http://ain.ua/tag/kottans)
 * [On DOU.ua](https://dou.ua/forums/tags/kottans.org/)
 * [Github](https://github.com/Kottans)
-* [Github](https://github.com/Kottans)
 
 <!-- Founder of [Rubyschool](http://rubyschool.co/) -->
+[NodeSchool Kiev](https://nodeschool.io/kyiv/) organizer.
 
 Articles:
 
