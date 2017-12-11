@@ -18,7 +18,7 @@ Innovative, result oriented ***Engineering Manager*** with 10+ years of people m
 ***Engineering Manager***
 
 * Leading company development process.
-* Building and leading engineering team, through recruitment, development, and
+* Building and leading engineering team, through recruitment, personal growth, development, and
 coaching
 * Managing day to day engineering operations
 * Developing best practices
@@ -29,18 +29,18 @@ on behalf of the product
 
 <!-- DECORIST -->
 
-#### [Decorist](https://www.decorist.com/) (2014 - 2017) San Francisco, USA / Kiev, Ukraine
+#### [Decorist](https://www.decorist.com/) (2014 - 2017) San Francisco, USA
 (online interior design services) - ***Engineering Manager***
 
-* Leading company development process, products changes and improvements [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
-<!-- * Hiring development team from the first person, growing the size of the team to 30 people -->
+* Leading company development process.
+ [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
+* Hiring development team from the first person, growing the size of the team form 1 to 30 people
 * Building and leading engineering team, through recruitment, development, and
 coaching
 * Driving the innovation, development, and implementation of software infrastructure
 * Managing day to day engineering operations, deliverables, and priorities
 * Developing best practices and software architecture
 * Ensuring engineering and operations teams are working closely and collaboratively as one team
-on behalf of the customer
 
 <!-- DECORIST -->
 
