@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Engineering Manager"
 permalink: /cv/
 ---
 
