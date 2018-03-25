@@ -46,7 +46,7 @@ coaching
 <!-- RUBYRIDERS -->
 
 #### [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco, USA / Kiev, Ukraine
-(Software Development Consulting Company) - ***Software Engineer,***  ***Partner***
+(Software Development Consulting Company) - ***Software Engineer***
 
 * Developing consumer based features and applications using Ruby on Rails, JavaScript, Angular, HTML, CSS and Behavior Driven Development (BDD)
 * Building and leading engineering teams
@@ -65,7 +65,7 @@ Projects involved in:
 <!-- RUBYGARAGE -->
 
 #### [Ruby Garage](https://rubygarage.org/)(June 2012 - January 2013) Dnipropetrovsk, Ukraine
-(Software Development Consulting Company) - ***Project/Sales Manager***
+(Software Development Consulting Company) - ***Developer/Sales Manager***
 
 * Project Management
 * Recruitment
@@ -88,7 +88,7 @@ Projects involved in:
 <!-- TUTO -->
 
 #### [Tuto](http://tuto.bigopt.com/) (2008 - 2012) Kiev Ukraine
-(footwear manufacturing company with distribution network) - ***Project Manager/Head of IT department***
+(footwear manufacturing company with distribution network) - ***Head of IT department***
 
 * Building automation system for product registration from scratch
 * Creating and leading the IT department
@@ -98,7 +98,7 @@ Projects involved in:
 <!-- PERIODICA -->
 
 #### [Periodica](http://www.periodik.com.ua/) (2004 - 2008) Kiev, Ukraine
-(Subscription Agency) - ***Department Manager***
+(Subscription Agency) - ***from a trainee to Department Manager***
 <!-- TODO fix this -->
 
 * Building and leading team, through recruitment, development, and
