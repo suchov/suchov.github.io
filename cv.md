@@ -7,7 +7,7 @@ Skype: suchovav
 
 # Professional Summary
 
-Innovative, result oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Strong communication, presentation, analytical and problem-solving skills. Excel in team building, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC.
+Innovative, result oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Strong communication, presentation, analytical and problem-solving skills. Excel in team building, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC. In love with Open Source, Git, TDD, React, Rails, great UI/UX and scalable applications.
 
 # Professional Experience
 
@@ -23,6 +23,9 @@ coaching
 * Developing best practices
 * Ensuring engineering and operations teams are working closely and collaboratively as one team
 on behalf of the product
+* Build the Continuous Delivery process for the team with continuous deployment, review process
+* Created the program to switch the team to use React and mentor the process
+* Switch the team to using TDD with RSpec & Jest
 
 <!-- Cloverpop -->
 
@@ -40,6 +43,7 @@ coaching
 * Managing day to day engineering operations, deliverables, and priorities
 * Developing best practices and software architecture
 * Ensuring engineering and operations teams are working closely and collaboratively as one team
+* We build couple modular applications with Python, Django, a bunch of microservices using Node, React, Angular
 
 <!-- DECORIST -->
 
