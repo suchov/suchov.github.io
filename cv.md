@@ -24,6 +24,7 @@ coaching
 * Ensuring engineering and operations teams are working closely and collaboratively as one team
 on behalf of the product
 * Build the Continuous Delivery process for the team with continuous deployment, review process
+* Lead the migration to ES6 and then to React
 * Created the program to switch the team to use React and mentor the process
 * Switch the team to using TDD with RSpec & Jest
 
