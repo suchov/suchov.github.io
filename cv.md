@@ -13,7 +13,7 @@ Innovative, result oriented ***Engineering Manager*** with 10+ years of people m
 
 <!-- Cloverpop -->
 
-#### [Cloverpop](https://www.cloverpop.com/) (2017 - present) Kiev, Ukraine
+#### [Cloverpop](https://www.cloverpop.com/) (2017 - present) San Francisco, USA
 ***Engineering Manager***
 
 * Leading company development process.
