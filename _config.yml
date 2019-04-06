@@ -9,7 +9,7 @@
 title: Artem Sychov
 email: artem.suchov@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   Founder at @kottans_org
+   All content here is in <a href='https://creativecommons.org/publicdomain/zero/1.0/'>public domain</a>. An attribution would be nice though.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://suchov.com" # the base hostname & protocol for your site
 twitter_username: ArtemSuchov
