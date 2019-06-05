@@ -4,8 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-<img src="/assets/me_glass.png" alt="Smiley face" width="200">
+<img class="circular--square" src="/assets/me_glass.png" alt="Smiley face" width="200">
 
-Love to build, manage and motivate teams. Beautiful code is my passions. Founder @ [kottans.org](http://kottans.org/)
+Love to build, manage and motivate teams to build products together.
+
+Clean code is my passions.
+
+Founder & CEO @ [kottans.org](http://kottans.org/) - community courses for developers.
 
 [Linkedin](https://www.linkedin.com/in/suchov)

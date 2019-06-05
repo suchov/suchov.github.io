@@ -7,13 +7,14 @@ Skype: suchovav
 
 # Professional Summary
 
-Innovative, result oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Strong communication, presentation, analytical and problem-solving skills. Excel in team building, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC. In love with Open Source, Git, TDD, React, Rails, great UI/UX and scalable applications.
+Innovative, result oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Excel in team building, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC. In love with Open Source, Git, TDD, React, great UI/UX & scalable applications.
 
 # Professional Experience
 
 <!-- Cloverpop -->
 
-#### [Cloverpop](https://www.cloverpop.com/) (2017 - present) San Francisco, USA
+## [Cloverpop](https://www.cloverpop.com/) (2017 Jan - 2019 May) Kyiv
+
 ***Engineering Manager***
 
 * Leading company development process.
@@ -32,7 +33,8 @@ on behalf of the product
 
 <!-- DECORIST -->
 
-#### [Decorist](https://www.decorist.com/) (2014 - 2017) San Francisco, USA
+## [Decorist](https://www.decorist.com/) (2014 - 2017) San Francisco/Kyiv
+
 (online interior design services) - ***Engineering Manager***
 
 * Leading company development process.
@@ -50,7 +52,8 @@ coaching
 
 <!-- RUBYRIDERS -->
 
-#### [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco, USA / Kiev, Ukraine
+## [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco, USA / Kyiv, Ukraine
+
 (Software Development Consulting Company) - ***Software Engineer***
 
 * Developing consumer based features and applications using Ruby on Rails, JavaScript, Angular, HTML, CSS and Behavior Driven Development (BDD)
@@ -69,7 +72,8 @@ Projects involved in:
 
 <!-- RUBYGARAGE -->
 
-#### [Ruby Garage](https://rubygarage.org/)(June 2012 - January 2013) Dnipropetrovsk, Ukraine
+## [Ruby Garage](https://rubygarage.org/)(June 2012 - January 2013) Dnipropetrovsk, Ukraine
+
 (Software Development Consulting Company) - ***Developer/Sales Manager***
 
 * Project Management
@@ -82,7 +86,8 @@ Projects involved in:
 
 <!-- TUNHOG -->
 
-#### [R&R Music Ltd](https://www.linkedin.com/company/1938618) (January 2012 - June 2012) Kiev Ukraine
+## [R&R Music Ltd](https://www.linkedin.com/company/1938618) (January 2012 - June 2012) Kyiv Ukraine
+
 (Multi-application digital media platform) - ***Software Developer***
 
 * Developing features in an agile environment using Ruby on Rails, HTML, CSS and JavaScript
@@ -92,7 +97,8 @@ Projects involved in:
 
 <!-- TUTO -->
 
-#### [Tuto](http://tuto.bigopt.com/) (2008 - 2012) Kiev Ukraine
+## [Tuto](http://tuto.bigopt.com/) (2008 - 2012) Kyiv Ukraine
+
 (footwear manufacturing company with distribution network) - ***Head of IT department***
 
 * Building automation system for product registration from scratch
@@ -102,7 +108,8 @@ Projects involved in:
 
 <!-- PERIODICA -->
 
-#### [Periodica](http://www.periodik.com.ua/) (2004 - 2008) Kiev, Ukraine
+## [Periodica](http://www.periodik.com.ua/) (2004 - 2008) Kyiv, Ukraine
+
 (Subscription Agency) - ***from a trainee to Department Manager***
 <!-- TODO fix this -->
 
@@ -111,16 +118,15 @@ coaching
 * Managing department
 * Preparing tender documentation for biggest national libraries and government organizations
 
-
 <!-- PERIODICA -->
 
 # Education
 
-National Pedagogical University, Kiev, Ukraine, 2002 - 2006 Bachelor's degree in Psychology
+National Pedagogical University, Kyiv, Ukraine, 2002 - 2006 Bachelor's degree in Psychology
 
-National Pedagogical University, Kiev, Ukraine, 2006 - 2007 Graduate Certificate in Apply Psychology
+National Pedagogical University, Kyiv, Ukraine, 2006 - 2007 Graduate Certificate in Apply Psychology
 <!-- TODO University in front of the courses -->
-Preparation for PMP exam (May - July 2016) [Spider](http://spiderproject.com.ua/en/certification/calendar/), Kiev, Ukraine
+Preparation for PMP exam (May - July 2016) [Spider](http://spiderproject.com.ua/en/certification/calendar/), Kyiv, Ukraine
 
 # Projects
 
@@ -132,7 +138,7 @@ Founder of [kottans.org](http://kottans.org/):
 * [Github](https://github.com/Kottans)
 
 <!-- Founder of [Rubyschool](http://rubyschool.co/) -->
-[NodeSchool Kiev](https://nodeschool.io/kyiv/) organizer.
+[NodeSchool Kyiv](https://nodeschool.io/kyiv/) organizer.
 
 Articles:
 
