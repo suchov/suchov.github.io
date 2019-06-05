@@ -3,17 +3,15 @@ layout: page
 permalink: /cv/
 ---
 
-Skype: suchovav
-
 # Professional Summary
 
-Innovative, result oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Excel in team building, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC. In love with Open Source, Git, TDD, React, great UI/UX & scalable applications.
+Innovative, result oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC. In love with Open Source, Git, TDD, React, great UI/UX & scalable applications.
 
 # Professional Experience
 
 <!-- Cloverpop -->
 
-## [Cloverpop](https://www.cloverpop.com/) (2017 Jan - 2019 May) Kyiv
+## [Cloverpop](https://www.cloverpop.com/) (2017 Jan - 2019 May) Kyiv/San Francisco
 
 ***Engineering Manager***
 
@@ -52,13 +50,11 @@ coaching
 
 <!-- RUBYRIDERS -->
 
-## [Rubyriders LLC](http://www.rubyriders.com/) (January 2013 - present) San Francisco, USA / Kyiv, Ukraine
+## [Rubyriders LLC](http://www.rubyriders.com/) (2013 January - present) San Francisco/Kyiv
 
-(Software Development Consulting Company) - ***Software Engineer***
+(Software Development Consulting Company) - ***Partner***
 
-* Developing consumer based features and applications using Ruby on Rails, JavaScript, Angular, HTML, CSS and Behavior Driven Development (BDD)
-* Building and leading engineering teams
-* Involving in Pre-Sales and Post-Sales processes
+* Work as developer, consultant, Engineering Manager...
 
 Projects involved in:
 
@@ -72,7 +68,7 @@ Projects involved in:
 
 <!-- RUBYGARAGE -->
 
-## [Ruby Garage](https://rubygarage.org/)(June 2012 - January 2013) Dnipropetrovsk, Ukraine
+## [Ruby Garage](https://rubygarage.org/)(2012 June - 2013 January) Dnipropetrovsk, Ukraine
 
 (Software Development Consulting Company) - ***Developer/Sales Manager***
 
@@ -86,7 +82,7 @@ Projects involved in:
 
 <!-- TUNHOG -->
 
-## [R&R Music Ltd](https://www.linkedin.com/company/1938618) (January 2012 - June 2012) Kyiv Ukraine
+## [R&R Music Ltd](https://www.linkedin.com/company/1938618) (2012 January - 2012 June) Kyiv Ukraine
 
 (Multi-application digital media platform) - ***Software Developer***
 
@@ -97,7 +93,7 @@ Projects involved in:
 
 <!-- TUTO -->
 
-## [Tuto](http://tuto.bigopt.com/) (2008 - 2012) Kyiv Ukraine
+## [Tuto](http://tuto.bigopt.com/) (2008 August - 2012 January) Kyiv Ukraine
 
 (footwear manufacturing company with distribution network) - ***Head of IT department***
 
@@ -108,7 +104,7 @@ Projects involved in:
 
 <!-- PERIODICA -->
 
-## [Periodica](http://www.periodik.com.ua/) (2004 - 2008) Kyiv, Ukraine
+## [Periodica](http://www.periodik.com.ua/) (2004 September - 2008 August) Kyiv, Ukraine
 
 (Subscription Agency) - ***from a trainee to Department Manager***
 <!-- TODO fix this -->
@@ -143,3 +139,5 @@ Founder of [kottans.org](http://kottans.org/):
 Articles:
 
 * [rb.ru](http://rb.ru/author/sychov/)
+
+Skype: suchovav
