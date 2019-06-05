@@ -7,7 +7,7 @@ permalink: /cv/
 
 Innovative, result oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC. In love with Open Source, Git, TDD, React, great UI/UX & scalable applications.
 
-# Professional Experience
+## Professional Experience
 
 <!-- Cloverpop -->
 
