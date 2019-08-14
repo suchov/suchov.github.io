@@ -5,7 +5,17 @@ permalink: /cv/
 
 Innovative, result oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC. In love with Open Source, Git, TDD, React, great UI/UX & scalable applications.
 
-## Professional Experience
+## Professional Experience (2019 April - current position ) Kyiv, Ukraine
+
+<!-- Livestories -->
+
+## [LiveStories](https://www.livestories.com/statistics)
+
+***Engineering Manager***
+
+* Building an offshore team in Ukraine to help the product succeed.
+* Working with NextJS, React, Redux, Jest, and SSR.
+* Hiring and leading the development team in Kyiv.
 
 <!-- Cloverpop -->
 
@@ -80,7 +90,7 @@ Projects involved in:
 
 <!-- TUNHOG -->
 
-## [R&R Music Ltd](https://www.linkedin.com/company/1938618) (2012 January - 2012 June) Kyiv Ukraine
+## [R&R Music Ltd](https://www.linkedin.com/company/1938618) (2012 January - 2012 June) Kyiv, Ukraine
 
 (Multi-application digital media platform) - ***Software Developer***
 
@@ -91,7 +101,7 @@ Projects involved in:
 
 <!-- TUTO -->
 
-## [Tuto](http://tuto.bigopt.com/) (2008 August - 2012 January) Kyiv Ukraine
+## [Tuto](http://tuto.bigopt.com/) (2008 August - 2012 January) Kyiv, Ukraine
 
 (footwear manufacturing company with distribution network) - ***Head of IT department***
 
