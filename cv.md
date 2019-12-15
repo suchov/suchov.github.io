@@ -3,16 +3,17 @@ layout: page
 permalink: /cv/
 ---
 
-Innovative, result oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC. In love with Open Source, Git, TDD, React, great UI/UX & scalable applications.
+Innovative, result-oriented ***Engineering/Project Manager*** with 10+ years of people management experience with the psychological and technical background. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC, a full cycle of feature delivery.
 
-## Professional Experience (2019 April - current position ) Kyiv, Ukraine
+## Professional Experience
 
 <!-- Livestories -->
 
-## [LiveStories](https://www.livestories.com/statistics)
+## [LiveStories](https://www.livestories.com/statistics) (2019 April - current position ) Kyiv, Ukraine
 
-***Engineering Manager***
+***Engineering/Project Manager***
 
+* Driving feature delivery from initial requirement through development to production deployment.
 * Building an offshore team in Ukraine to help the product succeed.
 * Working with NextJS, React, Redux, Jest, and SSR.
 * Hiring and leading the development team in Kyiv.
@@ -26,6 +27,7 @@ Innovative, result oriented ***Engineering Manager*** with 10+ years of people m
 * Leading company development process.
 * Building and leading engineering team, through recruitment, personal growth, development, and
 coaching
+* Identifying, scoping, and delivering large end-to-end features.
 * Managing day to day engineering operations
 * Developing best practices
 * Ensuring engineering and operations teams are working closely and collaboratively as one team
@@ -41,7 +43,7 @@ on behalf of the product
 
 ## [Decorist](https://www.decorist.com/) (2014 - 2017) San Francisco/Kyiv
 
-(online interior design services) - ***Engineering Manager***
+(online interior design services) - ***Engineering/Project Manager***
 
 * Leading company development process.
  [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
@@ -53,6 +55,7 @@ coaching
 * Developing best practices and software architecture
 * Ensuring engineering and operations teams are working closely and collaboratively as one team
 * We build couple modular applications with Python, Django, a bunch of microservices using Node, React, Angular
+* Delivering projects in multi-stakeholder environments
 
 <!-- DECORIST -->
 
