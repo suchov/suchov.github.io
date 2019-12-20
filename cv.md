@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 ---
 
-Innovative, result-oriented ***Engineering/Project Manager*** with 10+ years of people management experience with the psychological and technical background. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC, and a full cycle of feature delivery.
+Innovative, result-oriented ***Engineering Manager*** with 10+ years of people management experience with the psychological and technical background. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC, and a full cycle of feature delivery.
 
 ## Professional Experience
 
@@ -11,7 +11,7 @@ Innovative, result-oriented ***Engineering/Project Manager*** with 10+ years of 
 
 ## [LiveStories](https://www.livestories.com/statistics) (2019 April - current position ) Kyiv, Ukraine
 
-***Engineering/Project Manager***
+***Engineering Manager***
 
 * Driving feature delivery from initial requirement through development to production deployment.
 * Building an offshore team in Ukraine to help the product succeed.
@@ -43,7 +43,7 @@ on behalf of the product
 
 ## [Decorist](https://www.decorist.com/) (2014 - 2017) San Francisco/Kyiv
 
-(online interior design services) - ***Engineering/Project Manager***
+(online interior design services) - ***Engineering Manager***
 
 * Leading company development process.
  [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
