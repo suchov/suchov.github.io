@@ -51,7 +51,7 @@ Engineering/Project Manager
 
 #### [Rubyriders LLC](http://www.rubyriders.com/) (2013 January - present) San Francisco/Kyiv
 
-(Software Development Consulting Company) - **_Partner_**
+Partner
 
 - Work as developer, consultant, Engineering/Project Manager...
 
@@ -65,7 +65,7 @@ Projects involved in:
 
 #### [Ruby Garage](https://rubygarage.org/)(2012 June - 2013 January) Dnipropetrovsk, Ukraine
 
-(Software Development Consulting Company) - **_Developer/Sales Manager_**
+Developer/Sales Manager
 
 - Project Management
 - Recruitment
@@ -75,21 +75,21 @@ Projects involved in:
 
 #### [R&R Music Ltd](https://www.linkedin.com/company/1938618) (2012 January - 2012 June) Kyiv, Ukraine
 
-(Multi-application digital media platform) - **_Software Developer_**
+Software Developer
 
 - Developing features in an agile environment using Ruby on Rails, HTML, CSS and JavaScript
 - Managing code with unit tests and GitHub
 
 #### [Tuto](http://tuto.bigopt.com/) (2008 August - 2012 January) Kyiv, Ukraine
 
-(footwear manufacturing company with distribution network) - **_Head of IT department_**
+Head of IT department
 
 - Building automation system for product registration from scratch
 - Creating and leading the IT department
 
 #### [Periodica](http://www.periodik.com.ua/) (2004 September - 2008 August) Kyiv, Ukraine
 
-(Subscription Agency) - **_from a trainee to Department Manager_**
+from a trainee to Department Manager
 
 - Building and leading team, through recruitment, development, and
   coaching
