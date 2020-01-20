@@ -49,7 +49,7 @@ Engineering/Project Manager
 - We build couple modular applications with Python, Django, a bunch of microservices using Node, React, Angular
 - Delivering projects in multi-stakeholder environments
 
-#### [Rubyriders LLC](http://www.rubyriders.com/) (2013 January - present) San Francisco/Kyiv
+#### [Rubyriders LLC](http://www.rubyriders.com/) (2013 January - 2019 May) San Francisco/Kyiv
 
 Partner
 
