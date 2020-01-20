@@ -35,7 +35,7 @@ Engineering Manager
 
 #### [Decorist](https://www.decorist.com/) (2014 - 2017) San Francisco/Kyiv
 
-(online interior design services) - **_Engineering/Project Manager_**
+Engineering/Project Manager
 
 - Leading company development process.
   [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
