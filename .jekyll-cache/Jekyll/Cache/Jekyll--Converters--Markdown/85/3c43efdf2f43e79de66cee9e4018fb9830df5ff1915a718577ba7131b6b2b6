@@ -1,0 +1,18 @@
+I"m<iframe width="640" height="390" src="https://www.youtube.com/embed/9WIVxXoh0O4" frameborder="0" allowfullscreen=""></iframe>
+<ul>
+  <li><a href="http://yuiblog.com/blog/2010/05/19/css-101-block-formatting-contexts/">CSS 101: Block Formatting Contexts</a></li>
+  <li><a href="http://yuiblog.com/blog/2009/03/18/video-koechley-prof2e/">Professional Frontend Engineering</a></li>
+  <li><a href="http://css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html">Инлайновый контекст форматирования</a></li>
+  <li><a href="http://davidshariff.com/quiz/">Front End Web Development Quiz</a></li>
+  <li><a href="https://css-tricks.com/interview-questions-css/">Interview Questions and Exercises About CSS</a></li>
+  <li><a href="https://www.youtube.com/watch?v=qhouBGNncGQ">Используем PostCSS правильно</a></li>
+  <li><a href="http://midasjs.com/">A CSS syntax highlighter</a></li>
+  <li><a href="http://stylus-lang.com/try.html#?code=body%20%7B%0A%20%20font%3A%2014px%2F1.5%20Helvetica%2C%20arial%2C%20sans-serif%3B%0A%20%20%23logo%20%7B%0A%20%20%20%20border-radius%3A%205px%3B%0A%20%20%7D%0A%7D">Stylus</a></li>
+  <li><a href="https://github.com/blog/2112-delivering-octicons-with-svg">Delivering Octicons with SVG</a></li>
+  <li><a href="https://github.com/jonathantneal/postcss-short">Short lets you write styles more logically by extending shorthand properties in CSS</a></li>
+  <li><a href="http://callmenick.com/post/the-new-box-sizing-reset">The New Box Sizing Reset</a></li>
+  <li><a href="http://codepen.io/shvaikalesh/pen/xVgMKR">Post CSS example</a></li>
+  <li><a href="http://stackoverflow.com/questions/28078681/why-cant-fieldset-be-flex-containers">Why can’t &lt;fieldset&gt; be flex containers?</a></li>
+  <li><a href="https://developer.mozilla.org/en/docs/Web/CSS/counter-increment">Counter-increment CSS property</a></li>
+</ul>
+:ET

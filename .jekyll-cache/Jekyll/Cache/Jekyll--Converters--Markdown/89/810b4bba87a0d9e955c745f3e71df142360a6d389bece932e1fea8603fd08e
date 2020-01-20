@@ -1,0 +1,36 @@
+I"\<iframe width="640" height="390" src="https://www.youtube.com/embed/Iv9pxaCCt9Q" frameborder="0" allowfullscreen=""></iframe>
+<ul>
+  <li><a href="https://css-tricks.com/specifics-on-css-specificity/">Specifics on CSS Specificity</a></li>
+  <li><a href="https://specificity.keegan.st/">Specificity Calculator</a></li>
+  <li><a href="http://wesbos.com/nth-child/">How do :nth-child() and nth-of-type really work</a></li>
+  <li><a href="https://css-tricks.com/examples/nth-child-tester/">:nth Tester</a></li>
+  <li><a href="https://developer.mozilla.org/en/docs/Web/CSS/Attribute_selectors">Attribute selectors specs</a></li>
+  <li><a href="https://css-tricks.com/remember-selectors-with-love-and-hate/">How To Remember The Order of Selectors</a></li>
+  <li><a href="http://jsbin.com/tuzeyivuka/edit?html,css,output">CSS content example</a></li>
+  <li><a href="https://autoprefixer.github.io/ru/">CSS Автопрефиксер онлайн</a></li>
+  <li><a href="https://github.com/tj/nib">nib - Stylus mixins, utilities, components, and gradient image generation.</a></li>
+  <li><a href="https://developer.mozilla.org/en/docs/Web/CSS/box-sizing">box-sizing</a></li>
+  <li><a href="https://css-tricks.com/box-sizing/">box-sizing 2</a></li>
+  <li><a href="http://caniuse.com/#feat=css-variables">Can I use: CSS Variables (Custom Properties)</a></li>
+  <li><a href="http://cssnext.io/">Use tomorrow’s CSS syntax, today.</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context">The stacking context</a></li>
+  <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></li>
+  <li><a href="http://flexbox.io/">What the flexbox</a></li>
+  <li><a href="https://vimeo.com/67011034">Flexbox, теперь понятно</a></li>
+  <li><a href="https://www.youtube.com/watch?v=_98SE8WUvLk">Enhancing Responsiveness With Flexbox</a></li>
+  <li><a href="http://www.flexboxdefense.com/">Flexbox defence Game</a></li>
+  <li><a href="http://flexboxfroggy.com/">FLEXBOX FROGGY</a></li>
+  <li><a href="http://flexboxin5.com/">Flexbox in 5 minutes</a></li>
+  <li><a href="http://blog.teamtreehouse.com/css-scroll-snap-points">CSS Scroll Snap Points</a></li>
+  <li><a href="https://developer.mozilla.org/en/docs/Web/CSS/filter">CSS/filter</a></li>
+  <li><a href="https://css-tricks.com/basics-css-blend-modes/">Basics of CSS Blend Modes</a></li>
+  <li><a href="http://codepen.io/noahblon/pen/ZbjmbK">Dynamic Image Colorizing</a></li>
+  <li><a href="http://aerolab.github.io/midnight.js/">Midnight.js lets you switch fixed headers on the fly</a></li>
+  <li><a href="http://maintainablecss.com/">Approach to writing modular, scalable and of course, maintainable CSS.</a></li>
+  <li><a href="https://github.com/peterramsing/lost">LostGrid is a powerful grid system built in PostCSS</a></li>
+  <li><a href="https://github.com/oddbird/susy">Susy is an agnostic set of tools for creating powerful, custom layouts</a></li>
+  <li><a href="https://github.com/postcss/sugarss">Indent-based CSS syntax for PostCSS.</a></li>
+  <li><a href="https://github.com/postcss/postcss">PostCSS is a tool for transforming styles with JS plugins.</a></li>
+  <li><a href="http://webdesign.tutsplus.com/tutorials/quick-tip-easy-css3-checkboxes-and-radio-buttons--webdesign-8953">Quick Tip: Easy CSS3 Checkboxes and Radio Buttons</a></li>
+</ul>
+:ET
