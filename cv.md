@@ -17,7 +17,7 @@ Engineering Manager
 - Configured JIRA for the team and get the team back to Scrum and Agile
 - Wokred with team to set up the personal goals and OKR's based on the company goals
 
-#### [LiveStories](https://www.livestories.com/statistics) (2019 April - 2019 September ) Kyiv, Ukraine
+#### [LiveStories](https://www.livestories.com/statistics) (2019 March - 2020 February ) Kyiv, Ukraine
 
 Engineering Manager
 
