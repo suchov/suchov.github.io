@@ -7,9 +7,19 @@ Innovative, result-oriented Engineering/Project Manager_with 10+ years of people
 
 #### Professional Experience
 
-#### [LiveStories](https://www.livestories.com/statistics) (2019 April - current position ) Kyiv, Ukraine
+#### [Exabeam](https://www.exabeam.com/) (2019 September - current position ) Kyiv, Ukraine
 
-Engineering/Project Manager
+Engineering Manager
+
+- Responsible for the personal development and regular feedback for a team of 12 engineers
+- Strive to promote and implement engineering best practices within the team & tiebreak technical discussions
+- Passionate about building a culture of ownership and autonomy in the team
+- Configured JIRA for the team and get the team back to Scrum and Agile
+- Wokred with team to set up the personal goals and OKR's based on the company goals
+
+#### [LiveStories](https://www.livestories.com/statistics) (2019 April - 2019 September ) Kyiv, Ukraine
+
+Engineering Manager
 
 - Driving feature delivery from initial requirement through development to production deployment.
 - Building an offshore team in Ukraine to help the product succeed.
