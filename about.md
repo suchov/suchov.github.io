@@ -8,6 +8,6 @@ permalink: /about/
 
 Love to build, manage and motivate teams to craft great products together.
 
-Founder & CEO @ [kottans.org](http://kottans.org/) - community courses for developers.
+Founder @ [kottans.org](http://kottans.org/) - community courses for developers.
 
 [Linkedin](https://www.linkedin.com/in/suchov)
