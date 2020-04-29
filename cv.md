@@ -13,9 +13,8 @@ Engineering Manager
 
 - Responsible for the personal development and regular feedback for a team of 12 engineers
 - Strive to promote and implement engineering best practices within the team & tiebreak technical discussions
-- Passionate about building a culture of ownership and autonomy in the team
-- Configured JIRA for the team and get the team back to Scrum and Agile
 - Wokred with team to set up the personal goals and OKR's based on the company goals
+- Building and leading engineering team, through recruitment, personal growth, development
 
 #### [LiveStories](https://www.livestories.com/statistics) (2019 March - 2020 February ) Kyiv, Ukraine
 
