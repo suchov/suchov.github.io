@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 ---
 
-Innovative, result-oriented Engineering/Project Manager_with 10+ years of people management experience with the psychological and technical background. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC, and a full cycle of feature delivery.
+Innovative, result-oriented *Engineering Manager* with 10+ years of people management experience with the psychological and technical background. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC, and a full cycle of feature delivery.
 
 #### Professional Experience
 
@@ -45,7 +45,7 @@ Engineering Manager
 
 #### [Decorist](https://www.decorist.com/) (2014 - 2017) San Francisco/Kyiv
 
-Engineering/Project Manager
+Engineering Manager
 
 - Leading company development process.
   [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
@@ -75,7 +75,7 @@ Projects involved in:
 
 #### [Ruby Garage](https://rubygarage.org/)(2012 June - 2013 January) Dnipropetrovsk, Ukraine
 
-Developer/Sales Manager
+Project/Sales Manager
 
 - Project Management
 - Recruitment
@@ -99,7 +99,7 @@ Head of IT department
 
 #### [Periodica](http://www.periodik.com.ua/) (2004 September - 2008 August) Kyiv, Ukraine
 
-from a trainee to Department Manager
+From a trainee to Department Manager
 
 - Building and leading team, through recruitment, development, and
   coaching
