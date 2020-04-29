@@ -54,20 +54,6 @@ Engineering Manager
 - We build couple modular applications with Python, Django, a bunch of microservices using Node, React, Angular
 - Delivering projects in multi-stakeholder environments
 
-#### [Rubyriders LLC](http://www.rubyriders.com/) (2013 January - 2019 May) San Francisco/Kyiv
-
-Partner
-
-- Work as developer, consultant, Engineering/Project Manager...
-
-Projects involved in:
-
-- [Cloverpop](https://www.cloverpop.com/)
-- [Seedchange](https://www.seedchange.com/)
-- [Decorist](https://www.decorist.com/)
-- [Litigo](http://www.litigo.org/)
-- [FUNCTION4](http://fn4.us/)
-
 #### [Ruby Garage](https://rubygarage.org/)(2012 June - 2013 January) Dnipropetrovsk, Ukraine
 
 Project/Sales Manager
