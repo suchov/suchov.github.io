@@ -20,25 +20,22 @@ Engineering Manager
 
 Engineering Manager
 
-- Driving feature delivery from initial requirement through development to production deployment.
-- Building an offshore team in Ukraine to help the product succeed.
-- Working with NextJS, React, Redux, Jest, and SSR.
-- Hiring and leading the development team in Kyiv.
+- Driving feature delivery from initial requirement through development to production deployment
+- Building an offshore team in Ukraine to help the product succeed
+- Working with NextJS, React, Redux, Jest, and SSR
+- Hiring and leading the development team in Kyiv
 
 #### [Cloverpop](https://www.cloverpop.com/) (2017 Jan - 2019 May) Kyiv/San Francisco
 
 Engineering Manager
 
-- Leading company development process.
-- Building and leading engineering team, through recruitment, personal growth, development, and
-  coaching
-- Identifying, scoping, and delivering large end-to-end features.
+- Leading company development process
+- Building and leading engineering team, through recruitment, personal growth, development, and coaching
+- Identifying, scoping, and delivering large end-to-end features
 - Managing day to day engineering operations
-- Developing best practices
-- Ensuring engineering and operations teams are working closely and collaboratively as one team
-  on behalf of the product
+- Ensuring engineering and operations teams are working closely and collaboratively as one team on behalf of the product
 - Build the Continuous Delivery process for the team with continuous deployment, review process
-- Lead the migration to ES6 and then to React
+- Lead the migration to ES6/React
 - Created the program to switch the team to use React and mentor the process
 - Switch the team to using TDD with RSpec & Jest
 
@@ -49,8 +46,7 @@ Engineering Manager
 - Leading company development process.
   [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
 - Hiring development team from the first person, growing the size of the team form 1 to 30 people
-- Building and leading engineering team, through recruitment, development, and
-  coaching
+- Building and leading engineering team, through recruitment, development, and coaching
 - Driving the innovation, development, and implementation of software infrastructure
 - Managing day to day engineering operations, deliverables, and priorities
 - Developing best practices and software architecture
@@ -94,7 +90,7 @@ Software Developer
 Head of IT department
 
 - Building automation system for product registration from scratch
-- Creating and leading the IT department
+- Creating and leading the IT department from scratch
 
 #### [Periodica](http://www.periodik.com.ua/) (2004 September - 2008 August) Kyiv, Ukraine
 
@@ -102,7 +98,6 @@ From a trainee to Department Manager
 
 - Building and leading team, through recruitment, development, and
   coaching
-- Managing department
 - Preparing tender documentation for biggest national libraries and government organizations
 
 #### Education
