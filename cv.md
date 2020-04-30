@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 ---
 
-Innovative, result-oriented **Engineering Manager** with 10+ years of people management experience with the psychological and technical background. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC, and a full cycle of feature delivery.
+Result-oriented **Engineering Manager** with 10+ years of people management experience. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC, and a full cycle of delivery.
 
 #### Professional Experience
 
@@ -15,6 +15,7 @@ Engineering Manager
 - Strive to promote and implement engineering best practices within the team & tiebreak technical discussions
 - Wokred with team to set up the personal goals and OKR's based on the company goals
 - Building and leading engineering team, through recruitment, personal growth, development
+- Build and support with the team Data Lake application
 
 #### [LiveStories](https://www.livestories.com/statistics) (2019 March - 2020 February ) Kyiv, Ukraine
 
