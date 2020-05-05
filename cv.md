@@ -9,7 +9,7 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 #### [Exabeam](https://www.exabeam.com/) (2019 September - current position ) Kyiv, Ukraine
 
-Engineering Manager
+Engineering Manager, Data Lake Infrastructure and Application
 
 - Responsible for the personal development and regular feedback for a team of 12 engineers
 - Strive to promote and implement engineering best practices within the team & tiebreak technical discussions
