@@ -73,7 +73,7 @@ Software Engineer
 Head of IT department
 
 - Built automation system for company from scratch
-- Create and leade the IT department
+- Create and lead the IT department
 
 #### [Periodica](http://www.periodik.com.ua/) (2004 September - 2008 August) Kyiv, Ukraine
 
