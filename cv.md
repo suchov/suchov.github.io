@@ -7,7 +7,7 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 #### Professional Experience
 
-#### [Exabeam](https://www.exabeam.com/) (2019 September - current position ) Kyiv, Ukraine
+#### [Exabeam](https://www.exabeam.com/) (2019 July - current position ) Kyiv, Ukraine
 
 Engineering Manager, Data Lake Infrastructure and Application
 
@@ -17,8 +17,6 @@ Engineering Manager, Data Lake Infrastructure and Application
 - Building and leading engineering team, through recruitment, personal growth, development
 - Build and support with the team Data Lake application
 
-#### [LiveStories](https://www.livestories.com/statistics) (2019 March - 2020 February ) Kyiv, Ukraine
-
 Engineering Manager
 
 - Driving feature delivery from initial requirement through development to production deployment
@@ -26,7 +24,7 @@ Engineering Manager
 - Working with NextJS, React, Redux, Jest, and SSR
 - Hiring and leading the development team in Kyiv
 
-#### [Cloverpop](https://www.cloverpop.com/) (2017 Jan - 2019 May) Kyiv/San Francisco
+#### [Cloverpop](https://www.cloverpop.com/) (2017 Jan - 2019 June) Kyiv/San Francisco
 
 Engineering Manager
 
@@ -40,9 +38,9 @@ Engineering Manager
 - Created the program to switch the team to use React and mentor the process
 - Switch the team to using TDD with RSpec & Jest
 
-#### [Decorist](https://www.decorist.com/) (2014 - 2017) San Francisco/Kyiv
+#### [Decorist](https://www.decorist.com/) (2014 December - 2016 December) San Francisco/Kyiv
 
-Engineering Manager
+Head of Engineering
 
 - Leading company development process.
   [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
@@ -55,29 +53,27 @@ Engineering Manager
 - We build couple modular applications with Python, Django, a bunch of microservices using Node, React, Angular
 - Delivering projects in multi-stakeholder environments
 
-#### [Ruby Garage](https://rubygarage.org/)(2012 June - 2013 January) Dnipropetrovsk, Ukraine
+#### [Cloverpop](https://www.cloverpop.com/) (2013 Jan - 2014 December) Kyiv, Ukraine
 
-Project/Sales Manager
+Software Engineer
 
-- Project Management
-- Recruitment
-- Customer requirements and expectations management
-- Pre-Sales and Post-Sales activity
-- New marketing channels exploration
+- Full stack web developer worked with RoR and JS on Front End
+- Implement features from design to deliver customers
 
-#### [R&R Music Ltd](https://www.linkedin.com/company/1938618) (2012 January - 2012 June) Kyiv, Ukraine
 
-Software Developer
+#### [R&R Music Ltd](https://www.linkedin.com/company/1938618) (2012 January - 2012 October) Kyiv, Ukraine
+
+Software Engineer
 
 - Developing features in an agile environment using Ruby on Rails, HTML, CSS and JavaScript
 - Managing code with unit tests and GitHub
 
-#### [Tuto](http://tuto.bigopt.com/) (2008 August - 2012 January) Kyiv, Ukraine
+#### [Tuto](http://tuto.bigopt.com/) (2008 September - 2011 December) Kyiv, Ukraine
 
 Head of IT department
 
-- Building automation system for product registration from scratch
-- Creating and leading the IT department from scratch
+- Built automation system for company from scratch
+- Create and leade the IT department
 
 #### [Periodica](http://www.periodik.com.ua/) (2004 September - 2008 August) Kyiv, Ukraine
 
