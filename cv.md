@@ -7,7 +7,14 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 #### Professional Experience
 
-#### [Exabeam](https://www.exabeam.com/) (2019 July - current position ) Kyiv, Ukraine
+#### [Playtika](https://www.playtika.com/) (2020 July - current position) Kyiv, Ukraine
+
+R&D Group Manager
+
+- Manage 2 R&D scrum teams
+- ...
+
+#### [Exabeam](https://www.exabeam.com/) (2019 July - 2020 June) Kyiv, Ukraine
 
 Engineering Manager, Data Lake Infrastructure and Application
 
