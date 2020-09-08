@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 ---
 
-Result-oriented **Engineering Manager** with 10+ years of people management experience. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivational processes. Extensive experience in R&D, Product Development, Engineering and QC, and a full cycle of delivery.
+Result-oriented **Engineering Manager** with 10+ years of people management experience. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivation. Extensive experience in R&D, Product Development, Engineering, QC, and a full cycle of delivery.
 
 #### Professional Experience
 
@@ -12,7 +12,10 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 R&D Group Manager
 
 - Manage 2 R&D scrum teams
-- ...
+- Helped to build personal development and give regular feedback to team members
+- Build trastfull environment to empower the teammates to be a part of changes
+- Responsible for delivering on time and in budget
+- Building deliverly plans for teams ... 
 
 #### [Exabeam](https://www.exabeam.com/) (2019 July - 2020 June) Kyiv, Ukraine
 
