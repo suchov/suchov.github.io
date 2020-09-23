@@ -9,7 +9,7 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 #### [Playtika](https://www.playtika.com/) (2020 July - current position) Kyiv, Ukraine
 
-R&D Group Manager
+R&D Group/Engineering Manager
 
 - Manage 2 R&D scrum teams
 - Helped to build personal development and give regular feedback to team members
