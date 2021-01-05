@@ -11,11 +11,11 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 R&D Group/Engineering Manager
 
-- Manage 2 R&D scrum teams
-- Helped to build personal development and give regular feedback to team members
+- Manage 2 scrum teams to meet the objectives
+- Helped to build personal development plan and give regular feedback to team members
 - Build trastfull environment to empower the teammates to be a part of changes
 - Responsible for delivering on time and in budget
-- Building deliverly plans for teams ... 
+- Building deliverly plans for teams 
 
 #### [Exabeam](https://www.exabeam.com/) (2019 July - 2020 June) Kyiv, Ukraine
 
