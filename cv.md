@@ -13,7 +13,7 @@ R&D Group/Engineering Manager
 
 - Manage 2 scrum teams to meet the objectives
 - Helped to build personal development plan and give regular feedback to team members
-- Build trastfull environment to empower the teammates to be a part of changes
+- Build trustful environment to empower the teammates to be a part of changes
 - Responsible for delivering on time and in budget
 - Building deliverly plans for teams 
 
