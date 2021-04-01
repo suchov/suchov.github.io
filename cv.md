@@ -16,6 +16,7 @@ R&D Group/Engineering Manager
 - Build trustful environment to empower the teammates to be a part of changes
 - Responsible for delivering on time and in budget
 - Building deliverly plans for teams 
+- Responsible for hiring, career development and team motivation
 
 #### [Exabeam](https://www.exabeam.com/) (2019 July - 2020 June) Kyiv, Ukraine
 
