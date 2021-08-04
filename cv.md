@@ -9,14 +9,13 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 #### [Playtika](https://www.playtika.com/) (2020 July - current position) Kyiv, Ukraine
 
-R&D Group/Engineering Manager
+R&D Engineering Manager
 
 - Manage 2 scrum teams to meet the objectives
 - Helped to build personal development plan and give regular feedback to team members
-- Build trustful environment to empower the teammates to be a part of changes
-- Responsible for delivering on time and in budget
-- Building deliverly plans for teams 
 - Responsible for hiring, career development and team motivation
+- Build trastfull environment to empower the teammates to be a part of change
+- Responsible for the delivery
 
 #### [Exabeam](https://www.exabeam.com/) (2019 July - 2020 June) Kyiv, Ukraine
 
@@ -27,13 +26,6 @@ Engineering Manager, Data Lake Infrastructure and Application
 - Wokred with team to set up the personal goals and OKR's based on the company goals
 - Building and leading engineering team, through recruitment, personal growth, development
 - Build and support with the team Data Lake application
-
-Engineering Manager
-
-- Driving feature delivery from initial requirement through development to production deployment
-- Building an offshore team in Ukraine to help the product succeed
-- Working with NextJS, React, Redux, Jest, and SSR
-- Hiring and leading the development team in Kyiv
 
 #### [Cloverpop](https://www.cloverpop.com/) (2017 Jan - 2019 June) Kyiv/San Francisco
 
@@ -69,7 +61,7 @@ Head of Engineering
 Software Engineer
 
 - Full stack web developer worked with RoR and JS on Front End
-- Implement features from design to deliver customers
+- Implement features from design to delivering to customers
 
 
 #### [R&R Music Ltd](https://www.linkedin.com/company/1938618) (2012 January - 2012 October) Kyiv, Ukraine
