@@ -23,7 +23,6 @@ Engineering Manager, Data Lake Infrastructure and Application
 
 - Responsible for the personal development and regular feedback for a team of 12 engineers
 - Strive to promote and implement engineering best practices within the team & tiebreak technical discussions
-- Wokred with team to set up the personal goals and OKR's based on the company goals
 - Building and leading engineering team, through recruitment, personal growth, development
 - Build and support with the team Data Lake application
 
