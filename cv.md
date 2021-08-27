@@ -11,11 +11,10 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 R&D Engineering Manager
 
-- Manage 2 scrum teams to meet the objectives
-- Helped to build personal development plan and give regular feedback to team members
-- Responsible for hiring, career development and team motivation
-- Build trastfull environment to empower the teammates to be a part of change
-- Responsible for the delivery
+- Leading a team of 14 talented Engineers that works with https://www.slotomania.com/ and other products of the Playtika .
+- As a leader I always try to empower and support my co-workers, to help them grow and develop, and to make sure they have fun everyday. 
+- With a big focus on building and creating a great, open-minded, respectful and warm culture, where we can work together towards common goals. 
+- I believe in management by example & servant leadership. I work with empathy and curiosity as my most important tools.
 
 #### [Exabeam](https://www.exabeam.com/) (2019 July - 2020 June) Kyiv, Ukraine
 
