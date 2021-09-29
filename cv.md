@@ -29,7 +29,7 @@ Engineering Manager, Data Lake Infrastructure and Application
 
 Engineering Manager
 
-- Leading company development process
+- Leading company development process up to 35 engineers in 3 locations
 - Building and leading engineering team, through recruitment, personal growth, development, and coaching
 - Identifying, scoping, and delivering large end-to-end features
 - Managing day to day engineering operations
@@ -45,7 +45,7 @@ Head of Engineering
 
 - Leading company development process.
   [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
-- Hiring development team from the first person, growing the size of the team form 1 to 30 people
+- Hiring development team from the first person, growing the size of the team form 1 to 45 people
 - Building and leading engineering team, through recruitment, development, and coaching
 - Driving the innovation, development, and implementation of software infrastructure
 - Managing day to day engineering operations, deliverables, and priorities
