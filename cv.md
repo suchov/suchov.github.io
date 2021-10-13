@@ -7,7 +7,7 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 #### Professional Experience
 
-#### [Playtika](https://www.playtika.com/) (2020 July - current position) Kyiv, Ukraine
+#### [Playtika](https://www.playtika.com/) (2020 July - 2021 October) Kyiv, Ukraine
 
 R&D Engineering Manager
 
@@ -71,14 +71,14 @@ Software Engineer
 
 #### [Tuto](http://tuto.bigopt.com/) (2008 September - 2011 December) Kyiv, Ukraine
 
-Head of IT department
+Head of Information Technology department
 
 - Built automation system for company from scratch
 - Create and lead the IT department
 
 #### [Periodica](http://www.periodik.com.ua/) (2004 September - 2008 August) Kyiv, Ukraine
 
-From a trainee to Department Manager
+Information Technology Engineer
 
 - Building and leading team, through recruitment, development, and
   coaching
