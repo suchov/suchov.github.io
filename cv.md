@@ -7,11 +7,16 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 #### Professional Experience
 
+#### [Corva](https://www.corva.ai/) (2020 October - present) Kyiv, Ukraine
+
+Regional Engineering Manager
+- Leading company development process 40+ people (7 teams)
+
 #### [Playtika](https://www.playtika.com/) (2020 July - 2021 October) Kyiv, Ukraine
 
 R&D Engineering Manager
 
-- Leading a team of 21 talented Engineers that are working with https://www.slotomania.com/ and other products of the Playtika.
+- Leading 4 teams of talented Engineers that are working with https://www.slotomania.com/ and other products of the Playtika.
 - As a leader I always try to empower and support my co-workers, to help them grow and develop, and to make sure they have fun everyday. 
 - With a big focus on building and creating a great, open-minded, respectful and warm culture, where we can work together towards common goals. 
 - I believe in management by example & servant leadership. I work with empathy and curiosity as my most important tools.
