@@ -10,7 +10,7 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 #### [Corva](https://www.corva.ai/) (2020 October - present) Kyiv, Ukraine
 
 Regional Engineering Manager
-- Leading company development process 40+ people (7 teams)
+- Leading company development process 50+ people (7 teams)
 
 #### [Playtika](https://www.playtika.com/) (2020 July - 2021 October) Kyiv, Ukraine
 
