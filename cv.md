@@ -7,10 +7,14 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 #### Professional Experience
 
-#### [Corva](https://www.corva.ai/) (2020 October - present) Kyiv, Ukraine
+#### [Corva](https://www.corva.ai/) (2022 March - present) Kyiv, Ukraine
+Director of Engineering Ukraine
+- Leading engineering team including(QA, SDET, FE, BE, DevOps) departments.
+
+#### [Corva](https://www.corva.ai/) (2021 October - 2022 February) Kyiv, Ukraine
 
 Regional Engineering Manager
-- Leading company development process 50+ people (7 teams)
+- Leading company development process 50+ people (7 teams).
 
 #### [Playtika](https://www.playtika.com/) (2020 July - 2021 October) Kyiv, Ukraine
 
