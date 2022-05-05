@@ -7,7 +7,7 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 #### Professional Experience
 
-#### [Corva](https://www.corva.ai/) (2022 October - present)
+#### [Corva](https://www.corva.ai/) (2021 October - present)
 Director of Engineering
 - Leading engineering team including(QA, FE, BE, DevOps) departments.
 
