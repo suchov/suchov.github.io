@@ -9,7 +9,7 @@ Result-oriented **Engineering Manager** with 10+ years of people management expe
 
 #### [Corva](https://www.corva.ai/) (2022 March - present)
 Director of Engineering
-- Leading engineering team including(QA, SDET, FE, BE, DevOps) departments.
+- Leading engineering team including(QA, FE, BE, DevOps) departments.
 
 #### [Corva](https://www.corva.ai/) (2021 October - 2022 February) Kyiv, Ukraine
 
