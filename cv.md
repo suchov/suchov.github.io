@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 ---
 
-Result-oriented **Engineering Manager** with 10+ years of people management experience. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivation. Extensive experience in R&D, Product Development, Engineering, QC, and a full cycle of delivery.
+Result-oriented **Engineering Manager** with 12+ years of people management experience. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivation. Extensive experience in R&D, Product Development, Engineering, QC, and a full cycle of delivery.
 
 #### Professional Experience
 
