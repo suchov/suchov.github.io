@@ -7,9 +7,14 @@ Result-oriented **Engineering Manager** with 12+ years of people management expe
 
 #### Professional Experience
 
-#### [Corva](https://www.corva.ai/) (2021 October - present)
+#### [Corva](https://www.corva.ai/) (2021 November - present)
 Director of Engineering
 - Leading engineering team including(QA, FE, BE, DevOps) departments.
+- Form the team during the rapid growth phase
+- Grow enginering leads and form the team structure
+- Manage and mentor Engineering Managers with help to form goals fro them and their teams.
+- Help guide the product ideas and manage the roadmap.
+- Constant help with overseeing the architecture and stabiblity/security of the system.
 
 #### [Playtika](https://www.playtika.com/) (2020 July - 2021 October) Kyiv, Ukraine
 
