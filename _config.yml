@@ -7,7 +7,7 @@
 
 # Site settings
 title: Artem Sychov
-email: artem.suchov@gmail.com
+email: artem@sychov.dev 
 description: > # this means to ignore newlines until "baseurl:"
    All content here is in <a href='https://creativecommons.org/publicdomain/zero/1.0/'>public domain</a>. An attribution would be nice though.
 baseurl: "" # the subpath of your site, e.g. /blog
