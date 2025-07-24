@@ -2,7 +2,10 @@
 layout: page
 permalink: /cv/
 ---
-Result-oriented **Engineering Manager** with decades of experience. Excel in building offshore and onsite teams, deep practical knowledge in leadership and motivation. Extensive experience in R&D, Product Development, Engineering, QC, and a full delivery cycle.
+
+With nearly two decades of experience, I am a highly motivated and results-driven Engineering Leader passionate about building, scaling, and optimizing engineering teams, both offshore and onsite. My leadership philosophy centers on empowering individuals and fostering a collaborative culture, which has consistently led to the successful delivery of complex products and significant organizational growth.
+
+I possess extensive practical knowledge across the entire engineering spectrum, encompassing R&D, strategic product development, efficient engineering practices, and robust quality control. I thrive on guiding products from conception through to a full delivery cycle, navigating challenges with a strategic mindset and a commitment to excellence. Let's connect to discuss how I can contribute to your team's success and help achieve your business objectives.
 
 #### Professional Experience
 
