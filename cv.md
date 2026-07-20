@@ -10,13 +10,14 @@ I possess extensive practical knowledge across the entire engineering spectrum, 
 #### Professional Experience
 
 #### [Corva](https://www.corva.ai/) (2021 November - present)
-Director of Engineering
-- Leading engineering team including(QA, FE, BE, DevOps) departments.
-- Form the team during the rapid growth phase
-- Grow engineering leads and form the team structure
-- Manage and mentor Engineering Managers with help to form goals for them and their teams.
-- Help guide the product ideas and manage the roadmap.
-- Constant help with overseeing the architecture and stability/security of the system.
+Director of Information Security
+- Own the company-wide security program for a B2B SaaS/PaaS platform serving enterprise oil & gas customers, covering compliance, infrastructure security, and security operations.
+- Lead SOC 2 compliance end-to-end — evidence collection, auditor management, and remediation — while driving accurate risk reporting and formal risk-acceptance ownership at the engineering leadership level.
+- Built and run the vulnerability management program: scanning, triage, prioritization, and remediation tracking across cloud infrastructure and application code, including customer-facing security reviews and pen-test response.
+- Own and operate secure remote-access infrastructure (VPN, SSO/SAML integration, MFA rollout) for the entire company.
+- Act as the security point of contact for enterprise customers — security questionnaires, audits, and incident communications — directly supporting sales and renewals of major accounts.
+- Led the company's cyber insurance assessment, surfacing and remediating security gaps (MFA coverage, email authentication hardening) as part of the process.
+- Partner with Engineering on secure architecture decisions, incident response, and production stability — bridging security requirements with delivery velocity.
 
 #### [Playtika](https://www.playtika.com/) (2020 July - 2021 October) Kyiv, Ukraine
 
