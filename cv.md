@@ -42,7 +42,7 @@ Engineering Manager, Data Lake Infrastructure and Application
 
 Engineering Manager
 
-- Led the company development process with up to 35 engineers in 3 locations.
+- Second in command after the CTO, effectively responsible for the majority of the company's development: led the engineering process with up to 35 engineers across 3 locations.
 - Built and led the engineering team through recruitment, personal growth, development, and coaching.
 - Identified, scoped, and delivered large end-to-end features while managing day-to-day engineering operations.
 - Ensured engineering and operations teams worked closely and collaboratively as one team on behalf of the product.
@@ -55,6 +55,7 @@ Engineering Manager
 Head of Engineering
 
 - Led the company development process: [decorist.com](https://decorist.com/), [lowes.decorist.com](http://lowes.decorist.com/), [designwithlowes.com](https://www.designwithlowes.com/)
+- Based in San Francisco for one year, working on-site with the founders and executive team, then led the distributed organization from Kyiv.
 - Hired the development team from the first person, growing the team from 1 to 45 people.
 - Built and led the engineering team through recruitment, development, and coaching.
 - Drove the innovation, development, and implementation of software infrastructure.
@@ -98,7 +99,7 @@ National Pedagogical University, Kyiv, Ukraine, 2006 - 2007 — Specialist degre
 
 Python for Everybody Specialization — University of Michigan
 
-Preparation for PMP exam (May - July 2016) — [Spider](http://spiderproject.com.ua/en/certification/calendar/), Kyiv, Ukraine
+Preparation for PMP exam 30h (May - July 2016) — [Spider Ukraine](), Kyiv, Ukraine
 
 #### Projects
 
