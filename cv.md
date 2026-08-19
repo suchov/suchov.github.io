@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 ---
 
-Security and engineering leader with two decades in software. I currently own the company-wide information security program at a B2B SaaS platform serving enterprise oil & gas customers — spanning GRC and compliance (SOC 2), vulnerability management, security operations, and customer-facing security assurance. Before moving into security leadership, I spent a decade building and scaling engineering organizations of up to 100 engineers across multiple locations, which gives me a rare combination: I speak fluently with auditors, executives, and boards — and just as fluently with the engineers shipping the code.
+Security and engineering leader with nearly two decades in software. I currently own the company-wide information security program at a B2B SaaS platform serving the world's largest energy companies — spanning GRC and compliance (SOC 2), vulnerability management, security operations, and customer-facing security assurance for customers like ExxonMobil and Saudi Aramco. Before moving into security leadership, I spent a decade building and scaling engineering organizations of up to 100 engineers across multiple locations, which gives me a rare combination: I speak fluently with auditors, executives, and boards — and just as fluently with the engineers shipping the code.
 
 My leadership philosophy centers on empowering individuals and fostering a collaborative culture. I translate security risk into pragmatic, business-aligned decisions, and I thrive on owning programs end to end — from strategy and requirements through implementation and audit.
 
@@ -16,7 +16,7 @@ Director of Information Security
 - Own the company-wide security program for a B2B SaaS/PaaS platform serving enterprise oil & gas customers, covering compliance, infrastructure security, and security operations.
 - Lead SOC 2 compliance end-to-end — evidence collection, auditor management, and remediation — while driving accurate risk reporting and formal risk-acceptance ownership at the engineering leadership level.
 - Built and run the vulnerability management program: scanning, triage, prioritization, and remediation tracking across cloud infrastructure and application code (ASPM, CSPM, EDR tooling), including customer-facing security reviews and pen-test response.
-- Act as the security point of contact for enterprise customers — security questionnaires, audits, and incident communications — directly supporting sales and renewals of major accounts.
+- Act as the security point of contact for enterprise customers including ExxonMobil, Saudi Aramco, ADNOC, and Baker Hughes — security questionnaires, audits, and incident communications — directly supporting sales and renewals of major accounts.
 - Lead incident response for security-relevant production incidents: coordination, root-cause analysis, after-action reviews, and tabletop exercises.
 - Own and operate secure remote-access infrastructure (VPN, SSO/SAML integration, MFA rollout) and the security awareness program for the entire company.
 - Led the company's cyber insurance assessment, surfacing and remediating security gaps (MFA coverage, email authentication hardening) as part of the process.
