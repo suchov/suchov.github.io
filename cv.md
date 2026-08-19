@@ -96,7 +96,7 @@ National Pedagogical University, Kyiv, Ukraine, 2002 - 2006 — Bachelor's degre
 
 National Pedagogical University, Kyiv, Ukraine, 2006 - 2007 — Specialist degree in Applied Psychology
 
-Python for Everybody Specialization — University of Michigan (Coursera)
+Python for Everybody Specialization — University of Michigan
 
 Preparation for PMP exam (May - July 2016) — [Spider](http://spiderproject.com.ua/en/certification/calendar/), Kyiv, Ukraine
 
